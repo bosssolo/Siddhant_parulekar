@@ -1,0 +1,1662 @@
+order_id,customer_id,order_date,product_id,quantity,order_status,discount,return_id,return_reason,feedback
+1,392,2019-06-11,275,4,Returned,0.16,1,Incorrect item,Quick process
+2,953,2022-10-03,33,1,Returned,0.26,2,Incorrect item,Quick process
+3,777,2022-12-18,97,2,Returned,0.22,3,Damaged,Happy with return
+4,384,2021-03-06,196,3,Returned,0.16,4,Damaged,Quick process
+8,827,2022-01-24,360,4,Returned,0.11,5,Not satisfied,Delayed refund
+10,718,2018-05-27,387,2,Returned,0.14,6,Damaged,Delayed refund
+17,833,2019-12-11,444,4,Returned,0.23,7,Incorrect item,Happy with return
+18,194,2019-01-17,181,2,Returned,0.23,8,Incorrect item,Quick process
+23,124,2020-05-26,115,4,Returned,0.19,9,Not satisfied,Happy with return
+27,756,2022-07-04,289,3,Returned,0.17,10,Incorrect item,Delayed refund
+30,521,2019-12-15,92,3,Returned,0.13,11,Damaged,Quick process
+31,240,2021-09-12,233,1,Returned,0.1,12,Damaged,Happy with return
+32,885,2022-02-01,320,4,Returned,0.2,13,Not satisfied,Delayed refund
+35,998,2022-10-02,488,2,Returned,0.1,14,Incorrect item,Delayed refund
+42,150,2022-02-02,208,3,Returned,0.02,15,Incorrect item,Delayed refund
+45,938,2019-06-10,357,4,Returned,0.09,16,Not satisfied,Delayed refund
+46,852,2018-03-30,59,1,Returned,0.16,17,Incorrect item,Quick process
+49,852,2020-01-27,234,4,Returned,0.04,18,Incorrect item,Quick process
+50,916,2018-12-10,318,4,Returned,0.21,19,Damaged,Happy with return
+52,47,2020-12-05,79,4,Returned,0.23,20,Damaged,Quick process
+53,542,2021-05-16,316,1,Returned,0.22,21,Damaged,Happy with return
+55,301,2021-03-25,284,2,Returned,0.18,22,Damaged,Quick process
+59,520,2022-12-02,272,3,Returned,0.12,23,Incorrect item,Happy with return
+60,527,2018-02-21,198,3,Returned,0.28,24,Incorrect item,Quick process
+61,342,2018-04-18,231,1,Returned,0.29,25,Not satisfied,Delayed refund
+62,577,2021-06-27,241,1,Returned,0.25,26,Incorrect item,Quick process
+64,307,2021-01-02,429,3,Returned,0.11,27,Incorrect item,Happy with return
+65,292,2020-08-28,158,2,Returned,0.03,28,Incorrect item,Happy with return
+66,652,2021-05-15,238,3,Returned,0.2,29,Damaged,Happy with return
+67,498,2018-05-25,355,1,Returned,0.09,30,Incorrect item,Delayed refund
+69,118,2020-11-04,499,1,Returned,0.26,31,Not satisfied,Quick process
+71,676,2018-01-19,301,2,Returned,0.12,32,Incorrect item,Quick process
+80,528,2019-04-28,368,2,Returned,0.15,33,Incorrect item,Delayed refund
+83,55,2020-04-17,325,3,Returned,0.18,34,Not satisfied,Happy with return
+86,250,2022-05-23,391,3,Returned,0.16,35,Not satisfied,Quick process
+87,130,2022-05-29,460,2,Returned,0,36,Not satisfied,Happy with return
+90,216,2022-08-25,409,1,Returned,0.06,37,Damaged,Quick process
+100,436,2020-08-13,212,4,Returned,0.15,38,Incorrect item,Delayed refund
+102,288,2021-08-05,372,2,Returned,0.09,39,Not satisfied,Quick process
+103,906,2019-08-09,439,2,Returned,0.19,40,Damaged,Delayed refund
+104,782,2022-03-15,83,2,Returned,0.1,41,Not satisfied,Quick process
+107,586,2022-09-12,127,1,Returned,0.29,42,Incorrect item,Quick process
+111,774,2022-06-21,393,1,Returned,0.02,43,Incorrect item,Delayed refund
+112,701,2022-01-18,413,3,Returned,0.19,44,Not satisfied,Delayed refund
+114,45,2020-05-06,131,3,Returned,0.14,45,Not satisfied,Delayed refund
+117,898,2022-12-25,120,4,Returned,0.17,46,Incorrect item,Happy with return
+118,624,2019-01-10,439,4,Returned,0.03,47,Damaged,Happy with return
+123,20,2020-05-20,263,3,Returned,0,48,Incorrect item,Happy with return
+125,490,2020-06-02,260,1,Returned,0.07,49,Not satisfied,Delayed refund
+128,962,2020-02-17,30,4,Returned,0.24,50,Damaged,Happy with return
+130,298,2020-01-29,43,1,Returned,0.15,51,Damaged,Quick process
+134,991,2020-08-26,3,2,Returned,0.28,52,Not satisfied,Happy with return
+136,183,2022-09-19,394,4,Returned,0.16,53,Incorrect item,Happy with return
+140,629,2022-08-11,128,1,Returned,0.12,54,Damaged,Delayed refund
+141,125,2021-07-08,320,4,Returned,0,55,Damaged,Happy with return
+143,761,2020-02-10,63,2,Returned,0.13,56,Damaged,Delayed refund
+151,253,2022-07-23,64,1,Returned,0.29,57,Incorrect item,Happy with return
+152,920,2022-10-22,238,2,Returned,0.15,58,Not satisfied,Happy with return
+153,867,2022-01-29,277,2,Returned,0.23,59,Damaged,Happy with return
+155,174,2022-02-01,405,1,Returned,0.23,60,Damaged,Happy with return
+156,841,2019-04-11,14,1,Returned,0.19,61,Incorrect item,Quick process
+158,15,2019-06-14,204,1,Returned,0.16,62,Not satisfied,Quick process
+160,603,2020-10-09,426,4,Returned,0.3,63,Damaged,Delayed refund
+164,828,2018-03-22,270,4,Returned,0.13,64,Damaged,Delayed refund
+165,336,2019-02-13,224,2,Returned,0.07,65,Incorrect item,Happy with return
+166,193,2021-06-19,255,3,Returned,0.05,66,Damaged,Quick process
+167,133,2019-02-24,484,3,Returned,0.03,67,Not satisfied,Quick process
+168,945,2022-10-27,479,2,Returned,0.26,68,Incorrect item,Delayed refund
+169,990,2020-11-11,351,1,Returned,0.07,69,Damaged,Quick process
+170,185,2021-11-25,319,2,Returned,0.16,70,Not satisfied,Happy with return
+172,780,2020-05-05,220,3,Returned,0.11,71,Incorrect item,Delayed refund
+173,507,2019-09-11,276,2,Returned,0.18,72,Incorrect item,Quick process
+174,661,2021-03-02,131,2,Returned,0.07,73,Incorrect item,Quick process
+176,916,2021-03-06,360,3,Returned,0.07,74,Damaged,Delayed refund
+177,186,2019-11-16,474,4,Returned,0.18,75,Damaged,Quick process
+178,161,2018-02-04,170,2,Returned,0.05,76,Incorrect item,Delayed refund
+184,739,2021-11-16,252,3,Returned,0.29,77,Not satisfied,Quick process
+185,887,2021-04-08,119,4,Returned,0.02,78,Incorrect item,Quick process
+188,430,2022-05-16,177,2,Returned,0.01,79,Incorrect item,Happy with return
+192,565,2021-03-02,155,4,Returned,0.06,80,Damaged,Quick process
+195,684,2018-10-25,385,1,Returned,0.12,81,Damaged,Quick process
+198,653,2018-05-24,278,2,Returned,0.18,82,Incorrect item,Quick process
+202,214,2018-09-03,345,1,Returned,0.16,83,Incorrect item,Happy with return
+205,392,2018-07-27,216,4,Returned,0.27,84,Incorrect item,Happy with return
+211,170,2018-06-03,284,3,Returned,0.17,85,Incorrect item,Quick process
+212,41,2018-11-25,382,3,Returned,0.04,86,Not satisfied,Quick process
+213,567,2021-10-20,198,2,Returned,0.1,87,Damaged,Happy with return
+215,386,2021-03-10,468,3,Returned,0.19,88,Damaged,Quick process
+217,947,2021-05-29,16,3,Returned,0.18,89,Not satisfied,Quick process
+219,911,2022-09-12,459,1,Returned,0.17,90,Not satisfied,Happy with return
+224,348,2019-10-13,178,2,Returned,0.12,91,Damaged,Happy with return
+233,258,2021-03-29,335,1,Returned,0.16,92,Not satisfied,Quick process
+237,370,2020-07-09,307,1,Returned,0.27,93,Incorrect item,Happy with return
+238,617,2019-09-03,103,4,Returned,0.16,94,Damaged,Happy with return
+240,993,2019-10-18,313,4,Returned,0,95,Incorrect item,Delayed refund
+241,522,2020-12-15,173,4,Returned,0,96,Not satisfied,Quick process
+242,886,2021-01-07,474,3,Returned,0.2,97,Not satisfied,Quick process
+243,827,2021-04-15,433,2,Returned,0.04,98,Incorrect item,Delayed refund
+245,890,2022-03-11,360,1,Returned,0,99,Not satisfied,Delayed refund
+246,321,2018-12-31,487,1,Returned,0.17,100,Damaged,Happy with return
+247,8,2022-03-08,449,3,Returned,0.22,101,Incorrect item,Delayed refund
+248,201,2019-05-22,331,2,Returned,0.06,102,Not satisfied,Delayed refund
+251,27,2022-09-01,241,3,Returned,0.02,103,Incorrect item,Delayed refund
+257,151,2021-11-06,169,3,Returned,0.07,104,Incorrect item,Happy with return
+258,532,2018-07-18,351,2,Returned,0.05,105,Incorrect item,Quick process
+259,752,2022-07-22,360,1,Returned,0.18,106,Damaged,Delayed refund
+260,846,2021-11-13,25,3,Returned,0.26,107,Incorrect item,Quick process
+268,743,2021-03-03,460,1,Returned,0.01,108,Damaged,Happy with return
+270,915,2018-12-28,228,2,Returned,0.11,109,Incorrect item,Happy with return
+271,152,2020-08-06,13,1,Returned,0.2,110,Incorrect item,Delayed refund
+277,417,2018-10-23,80,2,Returned,0.17,111,Not satisfied,Happy with return
+279,203,2021-04-28,168,3,Returned,0.29,112,Incorrect item,Happy with return
+282,811,2018-03-28,398,2,Returned,0.19,113,Damaged,Happy with return
+284,742,2018-09-13,464,3,Returned,0.13,114,Incorrect item,Delayed refund
+286,605,2021-11-08,235,3,Returned,0.27,115,Incorrect item,Happy with return
+291,440,2019-08-30,157,3,Returned,0.2,116,Not satisfied,Quick process
+292,366,2021-03-17,415,2,Returned,0.14,117,Incorrect item,Quick process
+294,414,2018-06-19,23,3,Returned,0.13,118,Incorrect item,Happy with return
+299,307,2019-12-19,102,2,Returned,0.19,119,Not satisfied,Quick process
+303,421,2019-12-29,263,4,Returned,0.02,120,Incorrect item,Quick process
+304,288,2020-08-08,124,3,Returned,0.26,121,Incorrect item,Delayed refund
+305,552,2020-07-06,448,3,Returned,0,122,Damaged,Quick process
+307,288,2021-12-19,468,3,Returned,0.16,123,Not satisfied,Quick process
+308,867,2021-01-29,195,2,Returned,0.15,124,Damaged,Delayed refund
+316,668,2020-12-14,200,1,Returned,0.08,125,Incorrect item,Quick process
+319,342,2021-04-14,410,4,Returned,0.09,126,Damaged,Happy with return
+324,800,2018-07-14,254,4,Returned,0.13,127,Damaged,Delayed refund
+327,524,2020-03-15,68,1,Returned,0.04,128,Not satisfied,Happy with return
+330,948,2020-01-05,152,4,Returned,0.11,129,Incorrect item,Delayed refund
+332,681,2018-07-22,223,2,Returned,0.22,130,Damaged,Happy with return
+335,109,2018-04-19,396,4,Returned,0.05,131,Incorrect item,Delayed refund
+339,521,2020-01-12,167,2,Returned,0.09,132,Damaged,Quick process
+342,787,2018-11-25,307,3,Returned,0.11,133,Damaged,Happy with return
+348,398,2019-11-26,397,1,Returned,0.22,134,Damaged,Quick process
+351,544,2020-09-19,6,2,Returned,0.25,135,Incorrect item,Quick process
+352,432,2022-04-12,300,3,Returned,0.1,136,Damaged,Quick process
+355,987,2022-03-30,257,3,Returned,0.3,137,Damaged,Quick process
+358,222,2019-03-11,124,2,Returned,0.27,138,Incorrect item,Happy with return
+362,590,2018-10-07,58,4,Returned,0,139,Incorrect item,Quick process
+366,539,2019-10-10,175,2,Returned,0.1,140,Damaged,Quick process
+368,154,2018-11-16,334,2,Returned,0.1,141,Incorrect item,Delayed refund
+373,244,2022-11-07,105,3,Returned,0.1,142,Incorrect item,Delayed refund
+375,609,2022-07-28,494,3,Returned,0.28,143,Incorrect item,Happy with return
+377,902,2022-03-07,372,1,Returned,0.12,144,Incorrect item,Delayed refund
+381,518,2020-07-13,22,3,Returned,0.01,145,Damaged,Delayed refund
+383,311,2022-09-18,346,2,Returned,0.27,146,Not satisfied,Happy with return
+387,383,2022-12-26,107,3,Returned,0.26,147,Damaged,Happy with return
+390,758,2022-04-11,70,4,Returned,0.05,148,Not satisfied,Happy with return
+391,314,2019-11-25,260,3,Returned,0.19,149,Damaged,Happy with return
+398,326,2018-03-13,62,4,Returned,0.2,150,Incorrect item,Happy with return
+399,350,2022-03-26,490,4,Returned,0.2,151,Not satisfied,Delayed refund
+400,83,2018-09-16,477,3,Returned,0.22,152,Not satisfied,Delayed refund
+402,729,2020-07-24,243,4,Returned,0.13,153,Not satisfied,Quick process
+408,601,2018-12-16,328,3,Returned,0.18,154,Incorrect item,Happy with return
+409,535,2020-08-06,281,4,Returned,0.07,155,Not satisfied,Happy with return
+410,108,2020-03-26,477,3,Returned,0.26,156,Not satisfied,Quick process
+419,19,2018-03-24,417,3,Returned,0.02,157,Not satisfied,Delayed refund
+421,623,2020-08-05,179,2,Returned,0.2,158,Not satisfied,Delayed refund
+422,361,2018-08-15,78,3,Returned,0.25,159,Incorrect item,Happy with return
+424,159,2021-04-03,387,2,Returned,0.24,160,Incorrect item,Quick process
+434,393,2022-10-24,101,1,Returned,0.06,161,Damaged,Delayed refund
+437,181,2020-09-29,370,3,Returned,0.29,162,Damaged,Delayed refund
+439,855,2019-05-09,246,2,Returned,0.23,163,Damaged,Delayed refund
+440,970,2020-12-29,148,1,Returned,0.09,164,Not satisfied,Delayed refund
+443,876,2021-10-20,446,3,Returned,0.14,165,Not satisfied,Happy with return
+446,736,2021-01-21,56,4,Returned,0.09,166,Damaged,Happy with return
+450,850,2020-07-31,243,1,Returned,0.2,167,Not satisfied,Delayed refund
+453,565,2018-05-24,421,4,Returned,0.22,168,Damaged,Quick process
+454,445,2022-09-10,323,3,Returned,0.29,169,Incorrect item,Quick process
+455,231,2018-05-19,132,4,Returned,0.18,170,Not satisfied,Quick process
+457,356,2021-08-01,272,4,Returned,0.28,171,Incorrect item,Happy with return
+458,472,2020-09-18,349,3,Returned,0.24,172,Incorrect item,Quick process
+462,761,2021-08-22,329,3,Returned,0.05,173,Damaged,Delayed refund
+463,974,2018-07-22,80,4,Returned,0.09,174,Not satisfied,Happy with return
+466,780,2019-02-10,287,2,Returned,0.1,175,Damaged,Happy with return
+474,130,2020-03-23,250,2,Returned,0.15,176,Damaged,Delayed refund
+478,53,2020-06-11,397,3,Returned,0.29,177,Not satisfied,Quick process
+485,841,2018-08-08,195,2,Returned,0.02,178,Damaged,Quick process
+486,863,2022-12-30,37,1,Returned,0.15,179,Damaged,Quick process
+490,416,2021-09-06,232,1,Returned,0.25,180,Damaged,Quick process
+491,453,2020-01-10,358,4,Returned,0.09,181,Incorrect item,Happy with return
+494,710,2020-01-08,120,4,Returned,0.3,182,Damaged,Delayed refund
+497,172,2022-04-27,83,1,Returned,0.25,183,Not satisfied,Happy with return
+499,996,2020-11-10,444,2,Returned,0.04,184,Damaged,Happy with return
+500,618,2019-09-18,406,1,Returned,0.08,185,Incorrect item,Happy with return
+501,523,2020-09-25,49,4,Returned,0.3,186,Not satisfied,Quick process
+504,94,2022-03-18,463,1,Returned,0.09,187,Damaged,Quick process
+505,430,2019-05-28,136,1,Returned,0.05,188,Damaged,Delayed refund
+508,959,2018-08-08,253,4,Returned,0.07,189,Not satisfied,Delayed refund
+510,356,2021-06-06,281,4,Returned,0.29,190,Damaged,Happy with return
+511,14,2021-03-31,366,1,Returned,0.29,191,Not satisfied,Delayed refund
+513,830,2019-08-10,70,4,Returned,0.12,192,Damaged,Happy with return
+519,190,2022-04-18,484,4,Returned,0.23,193,Not satisfied,Delayed refund
+522,839,2021-03-14,162,1,Returned,0.13,194,Incorrect item,Happy with return
+523,18,2018-07-09,302,4,Returned,0.05,195,Damaged,Delayed refund
+526,674,2019-08-29,179,3,Returned,0.25,196,Damaged,Delayed refund
+527,175,2018-09-04,160,2,Returned,0,197,Damaged,Delayed refund
+530,534,2020-07-08,5,1,Returned,0.18,198,Damaged,Delayed refund
+532,352,2018-08-24,215,2,Returned,0.09,199,Not satisfied,Delayed refund
+538,275,2022-02-24,202,4,Returned,0.12,200,Damaged,Quick process
+541,927,2019-04-06,91,1,Returned,0.28,201,Damaged,Happy with return
+548,328,2018-04-25,129,4,Returned,0.16,202,Not satisfied,Quick process
+549,562,2021-01-24,437,3,Returned,0.05,203,Incorrect item,Delayed refund
+555,561,2021-11-24,42,3,Returned,0.19,204,Damaged,Happy with return
+567,2,2022-05-27,115,4,Returned,0.02,205,Incorrect item,Happy with return
+568,213,2020-05-22,452,1,Returned,0,206,Incorrect item,Delayed refund
+570,696,2018-05-23,496,4,Returned,0.29,207,Damaged,Quick process
+571,797,2019-09-05,296,3,Returned,0.01,208,Not satisfied,Happy with return
+574,904,2021-08-26,190,2,Returned,0.19,209,Incorrect item,Delayed refund
+575,489,2018-03-13,376,2,Returned,0.15,210,Damaged,Happy with return
+580,377,2018-07-18,10,2,Returned,0.12,211,Incorrect item,Delayed refund
+581,641,2020-02-27,357,2,Returned,0.13,212,Not satisfied,Delayed refund
+596,244,2021-10-10,99,2,Returned,0.16,213,Not satisfied,Happy with return
+597,81,2021-07-23,207,4,Returned,0.02,214,Incorrect item,Happy with return
+598,799,2018-07-31,457,1,Returned,0.03,215,Damaged,Quick process
+599,578,2022-05-18,216,4,Returned,0.17,216,Damaged,Happy with return
+601,218,2019-06-15,457,4,Returned,0.04,217,Damaged,Happy with return
+605,379,2021-09-28,415,1,Returned,0.18,218,Not satisfied,Happy with return
+607,884,2021-11-29,83,3,Returned,0.12,219,Damaged,Quick process
+612,921,2018-11-28,221,3,Returned,0.29,220,Incorrect item,Delayed refund
+613,740,2021-10-12,232,3,Returned,0.24,221,Not satisfied,Quick process
+615,580,2022-04-19,308,4,Returned,0.13,222,Damaged,Happy with return
+625,409,2022-02-19,237,1,Returned,0.03,223,Not satisfied,Delayed refund
+627,245,2022-11-13,440,3,Returned,0.19,224,Not satisfied,Quick process
+628,323,2021-06-21,160,3,Returned,0.28,225,Damaged,Quick process
+631,479,2022-10-14,323,2,Returned,0.21,226,Not satisfied,Happy with return
+632,632,2022-03-02,442,4,Returned,0.21,227,Incorrect item,Happy with return
+633,787,2020-10-03,455,3,Returned,0.27,228,Incorrect item,Happy with return
+638,189,2019-04-22,124,2,Returned,0.22,229,Incorrect item,Happy with return
+640,871,2021-07-15,54,4,Returned,0.16,230,Not satisfied,Happy with return
+642,874,2018-09-24,399,4,Returned,0.08,231,Not satisfied,Happy with return
+643,357,2022-10-29,472,2,Returned,0.25,232,Not satisfied,Happy with return
+644,618,2020-01-15,15,2,Returned,0.14,233,Damaged,Delayed refund
+646,703,2018-03-08,33,2,Returned,0.25,234,Damaged,Happy with return
+647,458,2018-04-06,480,1,Returned,0.11,235,Incorrect item,Delayed refund
+654,643,2020-03-10,342,1,Returned,0.04,236,Not satisfied,Delayed refund
+655,379,2019-07-05,259,3,Returned,0.2,237,Not satisfied,Quick process
+661,157,2022-07-20,391,2,Returned,0.19,238,Not satisfied,Delayed refund
+662,413,2020-04-03,263,2,Returned,0.05,239,Not satisfied,Quick process
+678,555,2020-10-19,479,3,Returned,0.13,240,Incorrect item,Delayed refund
+682,348,2018-01-16,127,1,Returned,0.22,241,Incorrect item,Quick process
+684,818,2021-02-26,454,2,Returned,0.17,242,Not satisfied,Delayed refund
+685,794,2018-10-21,129,2,Returned,0.29,243,Damaged,Happy with return
+686,525,2018-07-24,429,1,Returned,0.1,244,Damaged,Happy with return
+687,302,2019-07-18,478,2,Returned,0.09,245,Incorrect item,Quick process
+691,419,2020-05-14,366,3,Returned,0.05,246,Not satisfied,Happy with return
+692,456,2018-12-30,311,2,Returned,0.08,247,Not satisfied,Happy with return
+693,958,2022-07-11,478,1,Returned,0.12,248,Incorrect item,Happy with return
+695,24,2021-07-17,168,1,Returned,0.06,249,Incorrect item,Happy with return
+696,11,2021-03-11,329,2,Returned,0.19,250,Damaged,Happy with return
+700,197,2020-07-14,132,2,Returned,0.16,251,Damaged,Quick process
+701,928,2022-12-26,117,2,Returned,0.13,252,Not satisfied,Delayed refund
+703,54,2022-02-22,294,2,Returned,0.3,253,Damaged,Quick process
+721,675,2020-06-11,230,4,Returned,0.21,254,Damaged,Happy with return
+725,379,2019-09-29,434,1,Returned,0.19,255,Damaged,Quick process
+726,965,2018-12-06,471,3,Returned,0.04,256,Incorrect item,Quick process
+727,42,2021-10-28,370,1,Returned,0.06,257,Incorrect item,Happy with return
+728,841,2020-08-19,479,2,Returned,0.01,258,Damaged,Delayed refund
+729,859,2020-03-28,414,1,Returned,0.28,259,Damaged,Happy with return
+730,225,2021-05-21,244,1,Returned,0.25,260,Damaged,Delayed refund
+731,225,2022-03-23,89,4,Returned,0.19,261,Not satisfied,Happy with return
+738,233,2022-05-22,421,4,Returned,0.04,262,Damaged,Happy with return
+739,638,2022-02-16,10,1,Returned,0.28,263,Not satisfied,Happy with return
+745,379,2018-09-03,253,4,Returned,0.01,264,Incorrect item,Delayed refund
+748,821,2020-04-07,478,4,Returned,0.17,265,Damaged,Happy with return
+749,235,2020-01-03,149,2,Returned,0.13,266,Incorrect item,Delayed refund
+753,475,2020-09-02,48,1,Returned,0.02,267,Not satisfied,Happy with return
+758,229,2021-11-03,393,2,Returned,0.07,268,Not satisfied,Delayed refund
+760,231,2019-06-26,192,2,Returned,0.25,269,Incorrect item,Quick process
+761,560,2022-10-11,498,1,Returned,0.22,270,Damaged,Quick process
+763,344,2019-12-26,360,4,Returned,0.3,271,Incorrect item,Delayed refund
+768,860,2020-02-24,203,1,Returned,0.01,272,Incorrect item,Delayed refund
+770,311,2020-10-07,14,4,Returned,0.05,273,Not satisfied,Quick process
+771,159,2020-09-05,409,3,Returned,0.18,274,Not satisfied,Delayed refund
+777,551,2018-09-12,21,3,Returned,0.22,275,Damaged,Happy with return
+778,435,2020-08-21,363,1,Returned,0.1,276,Not satisfied,Delayed refund
+781,634,2020-04-04,414,1,Returned,0.17,277,Incorrect item,Delayed refund
+792,655,2020-06-18,194,2,Returned,0.14,278,Damaged,Delayed refund
+799,743,2021-04-20,68,2,Returned,0.04,279,Damaged,Happy with return
+800,7,2020-05-08,355,1,Returned,0.22,280,Not satisfied,Happy with return
+802,129,2019-04-01,102,4,Returned,0.03,281,Incorrect item,Delayed refund
+806,393,2022-01-08,282,2,Returned,0.27,282,Not satisfied,Delayed refund
+811,515,2021-08-18,220,1,Returned,0.16,283,Not satisfied,Delayed refund
+814,180,2019-11-26,220,1,Returned,0.2,284,Damaged,Happy with return
+821,146,2020-06-18,100,3,Returned,0.24,285,Damaged,Delayed refund
+822,472,2021-04-20,431,2,Returned,0.02,286,Damaged,Quick process
+823,334,2022-05-22,187,4,Returned,0.27,287,Not satisfied,Delayed refund
+829,89,2018-11-30,496,3,Returned,0.22,288,Incorrect item,Delayed refund
+833,135,2020-07-02,204,4,Returned,0.17,289,Not satisfied,Delayed refund
+835,226,2018-03-27,200,3,Returned,0.13,290,Not satisfied,Delayed refund
+836,990,2019-11-01,283,2,Returned,0.19,291,Damaged,Delayed refund
+837,805,2022-10-05,47,2,Returned,0.08,292,Incorrect item,Happy with return
+838,267,2018-12-14,287,3,Returned,0.02,293,Damaged,Quick process
+839,670,2021-09-17,166,4,Returned,0.05,294,Incorrect item,Happy with return
+840,700,2019-08-21,318,4,Returned,0.29,295,Incorrect item,Delayed refund
+841,242,2020-05-03,420,3,Returned,0.24,296,Damaged,Quick process
+843,55,2021-06-10,4,4,Returned,0.1,297,Not satisfied,Quick process
+846,881,2018-11-19,280,3,Returned,0.1,298,Incorrect item,Quick process
+851,503,2019-01-15,240,2,Returned,0.17,299,Not satisfied,Quick process
+854,83,2018-02-04,262,3,Returned,0.04,300,Damaged,Delayed refund
+855,170,2019-12-23,224,4,Returned,0.22,301,Incorrect item,Happy with return
+856,591,2021-05-22,418,3,Returned,0.11,302,Damaged,Quick process
+858,979,2019-05-04,467,2,Returned,0.07,303,Not satisfied,Delayed refund
+860,905,2018-03-28,39,4,Returned,0.16,304,Not satisfied,Quick process
+863,41,2021-04-11,116,2,Returned,0.07,305,Incorrect item,Happy with return
+865,250,2019-07-13,438,1,Returned,0.11,306,Not satisfied,Quick process
+871,333,2018-03-14,178,4,Returned,0.01,307,Not satisfied,Quick process
+878,963,2022-04-20,72,3,Returned,0.23,308,Incorrect item,Quick process
+881,286,2018-06-14,394,3,Returned,0.02,309,Incorrect item,Quick process
+882,94,2018-05-15,461,1,Returned,0.1,310,Damaged,Quick process
+884,849,2022-02-02,187,4,Returned,0.09,311,Incorrect item,Delayed refund
+886,519,2019-11-27,442,4,Returned,0.23,312,Incorrect item,Happy with return
+887,139,2022-07-10,487,2,Returned,0.01,313,Not satisfied,Happy with return
+894,966,2020-02-13,187,4,Returned,0.06,314,Incorrect item,Quick process
+895,333,2020-01-21,224,1,Returned,0.12,315,Not satisfied,Happy with return
+896,630,2022-05-11,403,1,Returned,0.02,316,Incorrect item,Quick process
+902,358,2018-05-05,201,4,Returned,0.16,317,Incorrect item,Quick process
+904,739,2022-08-31,441,3,Returned,0.11,318,Damaged,Happy with return
+905,425,2019-06-01,288,2,Returned,0.27,319,Damaged,Delayed refund
+907,335,2022-03-27,145,4,Returned,0.28,320,Not satisfied,Delayed refund
+909,894,2022-08-06,324,1,Returned,0.16,321,Not satisfied,Happy with return
+915,162,2022-04-17,168,1,Returned,0.12,322,Incorrect item,Quick process
+923,599,2020-02-20,406,4,Returned,0.03,323,Damaged,Quick process
+927,493,2022-03-03,43,3,Returned,0.14,324,Not satisfied,Quick process
+928,823,2019-10-24,265,3,Returned,0.07,325,Damaged,Delayed refund
+929,571,2021-09-11,438,3,Returned,0.06,326,Damaged,Happy with return
+932,9,2020-11-27,79,3,Returned,0,327,Incorrect item,Happy with return
+934,397,2019-10-03,399,4,Returned,0.11,328,Damaged,Happy with return
+937,520,2020-04-08,161,3,Returned,0.2,329,Damaged,Delayed refund
+938,320,2022-08-04,197,3,Returned,0.13,330,Damaged,Quick process
+942,670,2021-01-24,484,2,Returned,0.14,331,Damaged,Happy with return
+944,351,2021-08-23,340,2,Returned,0.21,332,Incorrect item,Quick process
+948,538,2018-08-21,133,3,Returned,0.26,333,Incorrect item,Quick process
+954,601,2019-04-11,359,1,Returned,0.29,334,Damaged,Delayed refund
+955,104,2018-12-05,347,3,Returned,0.23,335,Damaged,Delayed refund
+959,775,2019-11-29,96,1,Returned,0.1,336,Damaged,Delayed refund
+963,410,2018-10-12,207,1,Returned,0.14,337,Not satisfied,Delayed refund
+967,189,2022-09-25,241,3,Returned,0.22,338,Incorrect item,Quick process
+970,897,2019-05-09,234,4,Returned,0.21,339,Damaged,Quick process
+971,753,2022-02-04,67,2,Returned,0.22,340,Damaged,Quick process
+972,190,2018-11-17,363,3,Returned,0.19,341,Not satisfied,Happy with return
+978,615,2022-10-06,328,2,Returned,0.09,342,Not satisfied,Happy with return
+982,268,2019-02-25,127,2,Returned,0.23,343,Not satisfied,Quick process
+986,273,2019-03-02,315,3,Returned,0.05,344,Not satisfied,Delayed refund
+989,84,2018-04-25,424,4,Returned,0.17,345,Not satisfied,Delayed refund
+993,270,2021-06-20,145,3,Returned,0.28,346,Incorrect item,Quick process
+994,263,2021-03-29,169,2,Returned,0.16,347,Not satisfied,Quick process
+997,373,2021-06-12,214,3,Returned,0.02,348,Incorrect item,Happy with return
+998,738,2022-07-12,268,2,Returned,0.02,349,Not satisfied,Quick process
+999,812,2021-12-21,358,1,Returned,0.03,350,Incorrect item,Quick process
+1000,479,2019-06-12,258,3,Returned,0.07,351,Incorrect item,Delayed refund
+1002,910,2021-12-24,349,2,Returned,0.03,352,Incorrect item,Happy with return
+1003,483,2019-09-19,216,4,Returned,0.03,353,Incorrect item,Happy with return
+1016,641,2020-04-29,265,2,Returned,0.26,354,Damaged,Happy with return
+1017,782,2022-08-30,69,1,Returned,0.12,355,Not satisfied,Delayed refund
+1019,632,2021-11-23,469,3,Returned,0.28,356,Incorrect item,Quick process
+1021,86,2022-03-06,61,3,Returned,0.03,357,Not satisfied,Quick process
+1023,620,2018-04-21,288,1,Returned,0.08,358,Not satisfied,Happy with return
+1024,554,2020-11-30,196,3,Returned,0.25,359,Not satisfied,Happy with return
+1027,735,2022-11-24,16,2,Returned,0.08,360,Damaged,Delayed refund
+1030,183,2022-10-31,139,2,Returned,0.15,361,Damaged,Quick process
+1032,463,2018-03-26,185,4,Returned,0.04,362,Not satisfied,Happy with return
+1036,809,2019-01-25,99,2,Returned,0.17,363,Incorrect item,Happy with return
+1038,958,2019-06-23,197,2,Returned,0.06,364,Damaged,Quick process
+1039,914,2018-08-14,485,1,Returned,0.25,365,Incorrect item,Quick process
+1040,9,2022-01-14,146,3,Returned,0.24,366,Not satisfied,Quick process
+1041,739,2022-09-02,33,2,Returned,0.04,367,Incorrect item,Happy with return
+1047,27,2020-07-05,284,2,Returned,0.24,368,Damaged,Quick process
+1049,526,2021-11-13,45,1,Returned,0.27,369,Incorrect item,Happy with return
+1050,687,2022-11-24,335,1,Returned,0.12,370,Incorrect item,Happy with return
+1055,857,2020-01-22,399,3,Returned,0.12,371,Incorrect item,Quick process
+1057,629,2020-01-07,418,3,Returned,0.21,372,Not satisfied,Happy with return
+1058,219,2019-04-07,175,3,Returned,0.03,373,Not satisfied,Delayed refund
+1059,738,2018-06-22,12,4,Returned,0.19,374,Incorrect item,Delayed refund
+1060,693,2018-01-29,458,1,Returned,0.2,375,Not satisfied,Happy with return
+1068,236,2020-04-12,434,1,Returned,0.09,376,Not satisfied,Quick process
+1069,495,2020-04-25,26,2,Returned,0.04,377,Incorrect item,Delayed refund
+1070,953,2018-11-26,182,3,Returned,0.26,378,Incorrect item,Happy with return
+1072,296,2018-07-19,345,4,Returned,0.01,379,Damaged,Happy with return
+1074,23,2018-05-05,137,3,Returned,0.02,380,Damaged,Delayed refund
+1077,723,2019-03-03,477,4,Returned,0.03,381,Incorrect item,Quick process
+1080,329,2020-05-20,486,3,Returned,0.26,382,Incorrect item,Quick process
+1081,411,2020-08-30,309,3,Returned,0.23,383,Incorrect item,Delayed refund
+1082,16,2018-09-16,332,4,Returned,0.18,384,Not satisfied,Happy with return
+1084,412,2022-10-17,443,1,Returned,0.15,385,Not satisfied,Delayed refund
+1085,407,2022-04-04,394,4,Returned,0.23,386,Not satisfied,Happy with return
+1089,216,2021-07-14,445,4,Returned,0.27,387,Not satisfied,Delayed refund
+1106,43,2020-01-15,451,3,Returned,0.04,388,Incorrect item,Happy with return
+1111,7,2021-05-27,99,3,Returned,0.16,389,Incorrect item,Delayed refund
+1115,588,2022-12-14,480,1,Returned,0.26,390,Damaged,Happy with return
+1116,925,2022-09-14,429,2,Returned,0.1,391,Not satisfied,Happy with return
+1119,870,2021-05-08,278,1,Returned,0.27,392,Incorrect item,Delayed refund
+1121,591,2019-01-04,155,1,Returned,0.02,393,Damaged,Quick process
+1126,397,2022-11-02,401,3,Returned,0.22,394,Not satisfied,Happy with return
+1129,737,2019-10-04,131,2,Returned,0.12,395,Damaged,Happy with return
+1132,389,2022-05-29,89,2,Returned,0.05,396,Incorrect item,Delayed refund
+1133,590,2022-11-22,318,1,Returned,0.27,397,Not satisfied,Quick process
+1139,565,2021-03-25,373,2,Returned,0.14,398,Not satisfied,Happy with return
+1140,346,2020-03-02,473,2,Returned,0.06,399,Not satisfied,Delayed refund
+1145,718,2020-10-24,467,2,Returned,0.3,400,Incorrect item,Quick process
+1146,437,2020-02-01,451,4,Returned,0.22,401,Not satisfied,Happy with return
+1149,975,2019-03-04,143,4,Returned,0.16,402,Not satisfied,Delayed refund
+1155,619,2018-06-14,364,3,Returned,0.05,403,Not satisfied,Happy with return
+1157,307,2018-05-20,477,1,Returned,0.28,404,Not satisfied,Delayed refund
+1158,239,2022-11-18,174,2,Returned,0.14,405,Incorrect item,Delayed refund
+1164,279,2018-04-04,288,3,Returned,0.27,406,Not satisfied,Quick process
+1166,567,2022-03-22,114,3,Returned,0.27,407,Incorrect item,Delayed refund
+1174,261,2020-06-12,11,3,Returned,0.26,408,Incorrect item,Delayed refund
+1176,53,2020-06-09,58,3,Returned,0.22,409,Incorrect item,Delayed refund
+1179,967,2019-10-24,492,4,Returned,0.14,410,Not satisfied,Happy with return
+1181,316,2020-06-06,301,4,Returned,0.28,411,Not satisfied,Delayed refund
+1190,123,2018-11-07,171,3,Returned,0.02,412,Not satisfied,Delayed refund
+1192,585,2021-06-20,84,2,Returned,0.09,413,Damaged,Quick process
+1197,752,2019-06-10,434,4,Returned,0.03,414,Not satisfied,Delayed refund
+1199,186,2022-01-04,280,2,Returned,0.16,415,Damaged,Quick process
+1200,423,2018-06-04,321,2,Returned,0.25,416,Incorrect item,Delayed refund
+1202,50,2022-09-06,149,2,Returned,0.06,417,Damaged,Quick process
+1210,74,2021-06-02,50,1,Returned,0.27,418,Incorrect item,Happy with return
+1213,549,2018-12-17,69,3,Returned,0.11,419,Incorrect item,Quick process
+1215,808,2022-09-19,345,1,Returned,0.26,420,Incorrect item,Quick process
+1218,627,2020-07-22,128,1,Returned,0.18,421,Damaged,Quick process
+1220,514,2020-05-11,270,4,Returned,0.01,422,Incorrect item,Delayed refund
+1222,310,2018-04-23,326,2,Returned,0.09,423,Not satisfied,Delayed refund
+1223,314,2018-07-10,398,3,Returned,0.19,424,Damaged,Happy with return
+1225,649,2018-08-08,198,4,Returned,0.02,425,Incorrect item,Delayed refund
+1226,788,2022-01-01,53,3,Returned,0.07,426,Incorrect item,Happy with return
+1227,300,2019-02-22,321,1,Returned,0.07,427,Incorrect item,Quick process
+1228,389,2020-03-11,50,3,Returned,0.26,428,Damaged,Delayed refund
+1231,339,2018-10-14,242,4,Returned,0.19,429,Incorrect item,Happy with return
+1232,360,2018-12-10,11,4,Returned,0.05,430,Incorrect item,Quick process
+1238,644,2021-03-10,296,3,Returned,0.24,431,Not satisfied,Quick process
+1241,715,2018-07-15,251,3,Returned,0.09,432,Not satisfied,Quick process
+1242,274,2018-04-27,114,2,Returned,0.19,433,Not satisfied,Quick process
+1248,653,2019-11-30,48,4,Returned,0.1,434,Damaged,Quick process
+1255,186,2021-01-18,105,4,Returned,0.17,435,Not satisfied,Happy with return
+1260,35,2022-05-09,200,1,Returned,0.29,436,Incorrect item,Delayed refund
+1270,78,2021-11-08,310,3,Returned,0.07,437,Damaged,Happy with return
+1271,807,2022-12-12,430,2,Returned,0.18,438,Not satisfied,Quick process
+1273,759,2021-07-13,271,3,Returned,0.19,439,Damaged,Happy with return
+1275,789,2022-01-17,345,1,Returned,0.02,440,Damaged,Happy with return
+1277,60,2021-03-10,453,1,Returned,0.09,441,Incorrect item,Quick process
+1278,258,2022-09-06,409,1,Returned,0.25,442,Incorrect item,Quick process
+1293,746,2018-02-09,85,3,Returned,0.01,443,Incorrect item,Quick process
+1296,235,2018-04-14,11,3,Returned,0.2,444,Not satisfied,Delayed refund
+1302,134,2022-03-15,355,2,Returned,0.24,445,Incorrect item,Delayed refund
+1304,146,2019-02-23,494,3,Returned,0.03,446,Incorrect item,Quick process
+1306,221,2020-12-27,259,3,Returned,0.28,447,Damaged,Happy with return
+1313,347,2020-11-06,214,1,Returned,0.21,448,Damaged,Quick process
+1315,668,2021-09-09,315,4,Returned,0.02,449,Incorrect item,Happy with return
+1316,652,2020-02-25,384,3,Returned,0.05,450,Damaged,Happy with return
+1319,781,2018-01-09,75,4,Returned,0.07,451,Incorrect item,Delayed refund
+1321,924,2021-07-10,15,2,Returned,0.18,452,Damaged,Delayed refund
+1329,612,2020-06-19,430,3,Returned,0.09,453,Incorrect item,Quick process
+1334,921,2019-03-26,415,3,Returned,0.29,454,Damaged,Delayed refund
+1339,670,2020-09-03,491,3,Returned,0.2,455,Damaged,Delayed refund
+1341,356,2022-02-11,355,2,Returned,0.11,456,Incorrect item,Delayed refund
+1342,730,2018-04-07,94,2,Returned,0.1,457,Damaged,Happy with return
+1343,863,2019-09-01,232,1,Returned,0.14,458,Incorrect item,Quick process
+1346,644,2018-12-12,457,3,Returned,0.02,459,Damaged,Quick process
+1347,16,2021-06-24,187,4,Returned,0.06,460,Damaged,Quick process
+1348,441,2022-02-06,321,2,Returned,0.07,461,Damaged,Happy with return
+1353,158,2020-02-16,15,2,Returned,0.09,462,Not satisfied,Quick process
+1354,288,2022-08-01,276,3,Returned,0.07,463,Not satisfied,Happy with return
+1355,849,2022-12-07,9,3,Returned,0.04,464,Damaged,Delayed refund
+1356,681,2021-10-12,326,2,Returned,0.27,465,Incorrect item,Happy with return
+1359,430,2021-05-25,77,2,Returned,0.08,466,Damaged,Delayed refund
+1360,839,2022-02-22,120,4,Returned,0.06,467,Damaged,Quick process
+1368,94,2021-03-22,174,4,Returned,0.3,468,Damaged,Happy with return
+1371,541,2019-11-30,34,3,Returned,0.15,469,Incorrect item,Quick process
+1376,361,2019-03-20,324,2,Returned,0.26,470,Not satisfied,Delayed refund
+1385,769,2021-08-25,425,1,Returned,0.06,471,Not satisfied,Delayed refund
+1390,934,2018-11-21,369,3,Returned,0.19,472,Not satisfied,Delayed refund
+1391,314,2021-11-27,12,4,Returned,0.22,473,Incorrect item,Delayed refund
+1398,866,2021-12-14,74,2,Returned,0.24,474,Incorrect item,Happy with return
+1399,50,2019-05-14,6,2,Returned,0.12,475,Incorrect item,Delayed refund
+1400,626,2018-08-06,358,4,Returned,0.23,476,Not satisfied,Delayed refund
+1402,452,2022-03-03,174,2,Returned,0.02,477,Not satisfied,Delayed refund
+1404,602,2021-12-18,55,2,Returned,0.23,478,Incorrect item,Quick process
+1408,38,2019-05-16,182,2,Returned,0.05,479,Not satisfied,Delayed refund
+1412,289,2022-03-31,403,4,Returned,0.22,480,Not satisfied,Happy with return
+1413,248,2018-10-28,48,4,Returned,0.29,481,Damaged,Delayed refund
+1417,439,2020-03-06,116,4,Returned,0.2,482,Not satisfied,Quick process
+1419,381,2018-07-27,480,3,Returned,0,483,Incorrect item,Delayed refund
+1420,75,2019-04-23,470,2,Returned,0.27,484,Incorrect item,Quick process
+1421,383,2021-01-16,483,2,Returned,0.2,485,Damaged,Happy with return
+1429,917,2018-05-03,293,3,Returned,0.13,486,Incorrect item,Happy with return
+1434,579,2022-10-19,130,3,Returned,0.02,487,Not satisfied,Delayed refund
+1435,312,2022-02-11,168,4,Returned,0.13,488,Damaged,Happy with return
+1437,516,2021-07-04,139,2,Returned,0.04,489,Not satisfied,Happy with return
+1438,757,2020-08-12,228,4,Returned,0.25,490,Incorrect item,Delayed refund
+1441,279,2022-03-19,232,1,Returned,0.23,491,Damaged,Happy with return
+1445,208,2019-12-23,494,4,Returned,0.16,492,Incorrect item,Quick process
+1446,506,2022-11-05,438,2,Returned,0.13,493,Incorrect item,Quick process
+1447,301,2022-07-16,79,4,Returned,0.15,494,Damaged,Delayed refund
+1448,309,2019-08-24,191,3,Returned,0.29,495,Damaged,Quick process
+1450,370,2018-01-24,276,4,Returned,0.2,496,Incorrect item,Delayed refund
+1453,884,2022-01-11,257,4,Returned,0.05,497,Damaged,Quick process
+1460,297,2020-11-18,42,4,Returned,0.15,498,Incorrect item,Happy with return
+1461,189,2020-03-09,22,1,Returned,0.28,499,Damaged,Delayed refund
+1464,161,2022-01-18,292,3,Returned,0.25,500,Incorrect item,Delayed refund
+1465,85,2020-11-08,239,2,Returned,0.29,501,Damaged,Happy with return
+1466,381,2019-05-21,450,4,Returned,0.14,502,Not satisfied,Happy with return
+1468,378,2022-08-25,217,1,Returned,0.23,503,Damaged,Quick process
+1471,290,2018-02-05,129,2,Returned,0.07,504,Not satisfied,Quick process
+1474,747,2019-08-30,195,1,Returned,0.26,505,Not satisfied,Quick process
+1476,125,2020-08-18,347,4,Returned,0.04,506,Incorrect item,Quick process
+1479,517,2021-09-24,318,4,Returned,0.21,507,Not satisfied,Happy with return
+1480,802,2019-01-06,284,3,Returned,0.16,508,Not satisfied,Delayed refund
+1485,194,2020-01-08,404,4,Returned,0.3,509,Damaged,Delayed refund
+1490,141,2019-10-30,182,1,Returned,0.03,510,Damaged,Delayed refund
+1500,359,2020-08-22,156,3,Returned,0.19,511,Not satisfied,Happy with return
+1503,267,2021-05-31,31,1,Returned,0.27,512,Not satisfied,Quick process
+1508,843,2019-07-16,62,3,Returned,0.04,513,Incorrect item,Quick process
+1509,410,2018-09-17,231,4,Returned,0.27,514,Incorrect item,Delayed refund
+1523,771,2019-03-07,365,2,Returned,0.11,515,Not satisfied,Quick process
+1527,3,2021-03-13,147,4,Returned,0.14,516,Damaged,Happy with return
+1530,874,2022-11-16,249,4,Returned,0.28,517,Damaged,Happy with return
+1532,718,2020-10-04,105,2,Returned,0.13,518,Incorrect item,Happy with return
+1533,951,2019-11-20,15,3,Returned,0.18,519,Damaged,Delayed refund
+1537,40,2020-02-12,168,4,Returned,0.03,520,Not satisfied,Happy with return
+1538,845,2022-07-27,327,3,Returned,0.13,521,Damaged,Quick process
+1539,126,2018-12-26,127,2,Returned,0.25,522,Not satisfied,Quick process
+1540,805,2020-11-18,203,4,Returned,0.12,523,Incorrect item,Quick process
+1542,833,2019-12-20,379,4,Returned,0.22,524,Damaged,Delayed refund
+1546,443,2018-09-17,195,1,Returned,0.22,525,Incorrect item,Delayed refund
+1551,516,2021-09-14,357,3,Returned,0.05,526,Damaged,Delayed refund
+1556,471,2019-07-04,4,4,Returned,0.29,527,Damaged,Happy with return
+1557,870,2020-08-06,351,1,Returned,0.23,528,Incorrect item,Happy with return
+1559,93,2022-10-03,185,2,Returned,0.14,529,Incorrect item,Delayed refund
+1562,472,2020-11-05,36,2,Returned,0.01,530,Not satisfied,Quick process
+1563,394,2021-12-28,403,2,Returned,0.17,531,Damaged,Quick process
+1564,259,2019-01-04,140,1,Returned,0.16,532,Incorrect item,Happy with return
+1565,534,2019-12-24,351,4,Returned,0.17,533,Damaged,Happy with return
+1567,83,2019-05-06,320,1,Returned,0.03,534,Not satisfied,Quick process
+1569,953,2022-05-04,129,1,Returned,0.25,535,Incorrect item,Quick process
+1572,385,2021-08-21,277,1,Returned,0.28,536,Not satisfied,Delayed refund
+1578,74,2019-11-19,431,1,Returned,0.1,537,Damaged,Happy with return
+1582,756,2018-03-28,497,2,Returned,0.09,538,Not satisfied,Quick process
+1583,285,2020-06-07,16,4,Returned,0.25,539,Damaged,Quick process
+1585,876,2018-09-18,245,1,Returned,0.14,540,Damaged,Delayed refund
+1588,276,2022-01-14,125,2,Returned,0.06,541,Not satisfied,Quick process
+1592,551,2022-05-08,183,4,Returned,0.15,542,Damaged,Quick process
+1596,10,2022-02-26,222,4,Returned,0.26,543,Damaged,Quick process
+1597,825,2020-06-13,145,1,Returned,0.11,544,Incorrect item,Delayed refund
+1598,913,2021-11-21,183,4,Returned,0.28,545,Damaged,Delayed refund
+1600,599,2018-02-09,232,1,Returned,0.25,546,Incorrect item,Happy with return
+1601,716,2020-09-15,20,1,Returned,0.22,547,Not satisfied,Happy with return
+1606,569,2020-01-31,53,4,Returned,0.13,548,Incorrect item,Happy with return
+1610,201,2020-02-29,470,3,Returned,0,549,Incorrect item,Quick process
+1611,684,2020-01-17,18,2,Returned,0.07,550,Incorrect item,Delayed refund
+1613,662,2021-11-11,14,2,Returned,0.07,551,Not satisfied,Delayed refund
+1621,428,2021-12-05,458,2,Returned,0.23,552,Incorrect item,Quick process
+1623,696,2021-11-08,318,2,Returned,0.21,553,Damaged,Delayed refund
+1626,115,2018-11-17,104,3,Returned,0.27,554,Incorrect item,Happy with return
+1631,245,2020-01-09,297,1,Returned,0.02,555,Not satisfied,Happy with return
+1633,16,2019-09-10,419,1,Returned,0.28,556,Incorrect item,Quick process
+1641,429,2022-10-17,381,3,Returned,0.2,557,Damaged,Delayed refund
+1642,281,2018-09-10,304,1,Returned,0.23,558,Incorrect item,Happy with return
+1644,288,2019-04-29,479,2,Returned,0.05,559,Damaged,Quick process
+1645,318,2018-08-05,49,3,Returned,0.1,560,Incorrect item,Delayed refund
+1649,116,2021-06-05,137,1,Returned,0.09,561,Not satisfied,Quick process
+1652,538,2018-09-23,91,3,Returned,0.19,562,Not satisfied,Happy with return
+1662,656,2021-10-13,117,4,Returned,0.17,563,Not satisfied,Delayed refund
+1666,490,2021-03-25,458,3,Returned,0.04,564,Incorrect item,Quick process
+1667,433,2019-07-20,93,2,Returned,0.25,565,Not satisfied,Quick process
+1668,173,2022-11-15,100,4,Returned,0.08,566,Not satisfied,Happy with return
+1669,752,2018-10-28,285,1,Returned,0.28,567,Not satisfied,Delayed refund
+1671,463,2018-06-29,396,2,Returned,0.29,568,Not satisfied,Quick process
+1672,915,2018-12-30,18,1,Returned,0.02,569,Not satisfied,Quick process
+1673,940,2020-04-22,331,3,Returned,0.22,570,Incorrect item,Quick process
+1684,330,2022-11-17,185,3,Returned,0.27,571,Not satisfied,Happy with return
+1685,182,2018-03-08,369,4,Returned,0.03,572,Incorrect item,Happy with return
+1686,776,2020-09-21,240,2,Returned,0.29,573,Damaged,Delayed refund
+1687,626,2018-01-31,221,4,Returned,0.24,574,Damaged,Delayed refund
+1688,375,2018-11-19,213,4,Returned,0.08,575,Incorrect item,Quick process
+1690,93,2020-07-14,325,2,Returned,0.17,576,Incorrect item,Happy with return
+1691,703,2018-09-03,227,2,Returned,0.23,577,Damaged,Happy with return
+1693,397,2020-12-01,230,1,Returned,0.1,578,Damaged,Delayed refund
+1694,441,2020-10-11,303,3,Returned,0.07,579,Damaged,Happy with return
+1696,911,2022-08-05,137,4,Returned,0.19,580,Damaged,Delayed refund
+1697,905,2018-12-21,161,4,Returned,0.08,581,Not satisfied,Delayed refund
+1698,734,2020-06-13,141,1,Returned,0.16,582,Damaged,Quick process
+1701,284,2021-11-22,26,1,Returned,0.22,583,Incorrect item,Delayed refund
+1702,590,2019-11-27,433,1,Returned,0.02,584,Incorrect item,Quick process
+1704,726,2021-10-27,53,3,Returned,0.03,585,Damaged,Delayed refund
+1710,74,2019-02-01,498,4,Returned,0.08,586,Damaged,Happy with return
+1712,804,2020-10-12,292,1,Returned,0.14,587,Incorrect item,Happy with return
+1713,930,2021-01-15,456,3,Returned,0.16,588,Not satisfied,Happy with return
+1715,767,2022-05-09,338,4,Returned,0.15,589,Incorrect item,Happy with return
+1721,311,2022-02-22,444,3,Returned,0.07,590,Damaged,Delayed refund
+1723,40,2019-05-29,185,3,Returned,0.08,591,Incorrect item,Delayed refund
+1727,711,2019-03-08,141,4,Returned,0.1,592,Not satisfied,Happy with return
+1728,892,2020-07-26,112,1,Returned,0.2,593,Damaged,Quick process
+1736,310,2018-03-28,21,3,Returned,0.27,594,Damaged,Quick process
+1738,140,2019-11-15,163,4,Returned,0.18,595,Not satisfied,Delayed refund
+1740,375,2020-07-20,311,4,Returned,0.16,596,Not satisfied,Happy with return
+1744,900,2022-05-07,391,1,Returned,0.24,597,Incorrect item,Quick process
+1746,65,2021-04-02,314,3,Returned,0.04,598,Not satisfied,Delayed refund
+1751,266,2022-04-10,54,1,Returned,0.3,599,Damaged,Delayed refund
+1755,112,2022-03-24,64,2,Returned,0.18,600,Damaged,Quick process
+1757,178,2021-01-22,398,1,Returned,0.18,601,Damaged,Happy with return
+1765,529,2020-01-13,177,3,Returned,0.1,602,Not satisfied,Delayed refund
+1766,248,2018-06-20,30,1,Returned,0.03,603,Incorrect item,Delayed refund
+1770,750,2022-06-26,264,3,Returned,0.2,604,Incorrect item,Quick process
+1771,209,2019-03-17,59,3,Returned,0.19,605,Not satisfied,Quick process
+1773,639,2021-08-05,232,4,Returned,0.28,606,Incorrect item,Delayed refund
+1778,287,2019-12-18,260,2,Returned,0.17,607,Damaged,Happy with return
+1779,919,2018-09-30,145,1,Returned,0.16,608,Damaged,Quick process
+1782,642,2019-06-20,160,2,Returned,0.3,609,Not satisfied,Happy with return
+1791,616,2019-10-14,197,4,Returned,0.18,610,Not satisfied,Happy with return
+1794,350,2021-04-14,391,1,Returned,0.05,611,Damaged,Quick process
+1797,85,2019-04-17,315,2,Returned,0.24,612,Damaged,Quick process
+1802,762,2020-08-03,393,1,Returned,0.14,613,Damaged,Delayed refund
+1804,335,2021-12-05,355,4,Returned,0.07,614,Damaged,Happy with return
+1807,444,2018-09-17,255,1,Returned,0.13,615,Not satisfied,Delayed refund
+1809,104,2020-07-23,280,2,Returned,0.07,616,Not satisfied,Quick process
+1811,146,2022-06-20,387,1,Returned,0.02,617,Incorrect item,Delayed refund
+1812,387,2022-12-05,465,2,Returned,0.18,618,Not satisfied,Happy with return
+1813,393,2022-01-17,93,4,Returned,0.02,619,Incorrect item,Delayed refund
+1815,461,2018-07-09,238,4,Returned,0.04,620,Not satisfied,Delayed refund
+1816,809,2018-09-04,296,4,Returned,0.15,621,Not satisfied,Delayed refund
+1823,724,2021-05-09,381,3,Returned,0.24,622,Damaged,Quick process
+1826,16,2022-07-17,381,4,Returned,0.01,623,Damaged,Quick process
+1830,911,2018-07-16,172,4,Returned,0.16,624,Not satisfied,Delayed refund
+1831,401,2018-01-29,427,3,Returned,0.02,625,Not satisfied,Delayed refund
+1836,8,2020-01-01,330,4,Returned,0.28,626,Not satisfied,Happy with return
+1839,700,2021-08-06,117,4,Returned,0.02,627,Damaged,Quick process
+1840,795,2019-06-07,89,3,Returned,0.28,628,Incorrect item,Happy with return
+1847,407,2018-02-26,56,1,Returned,0.27,629,Incorrect item,Happy with return
+1848,958,2019-08-29,475,3,Returned,0.27,630,Incorrect item,Quick process
+1850,442,2019-05-27,204,1,Returned,0.05,631,Incorrect item,Quick process
+1852,851,2020-01-19,359,2,Returned,0,632,Incorrect item,Delayed refund
+1853,262,2019-07-30,202,3,Returned,0.13,633,Incorrect item,Delayed refund
+1860,941,2021-08-29,337,3,Returned,0.27,634,Not satisfied,Happy with return
+1864,669,2019-03-03,117,2,Returned,0.25,635,Incorrect item,Happy with return
+1865,260,2019-03-18,383,3,Returned,0.07,636,Not satisfied,Happy with return
+1866,212,2019-09-24,442,2,Returned,0.27,637,Damaged,Happy with return
+1868,447,2021-01-12,224,3,Returned,0.26,638,Damaged,Happy with return
+1873,502,2022-03-30,284,2,Returned,0.26,639,Not satisfied,Quick process
+1875,866,2018-05-18,286,1,Returned,0.26,640,Incorrect item,Delayed refund
+1880,771,2018-01-12,38,2,Returned,0.29,641,Not satisfied,Delayed refund
+1885,869,2019-05-13,287,2,Returned,0.18,642,Incorrect item,Delayed refund
+1886,696,2022-02-03,197,1,Returned,0,643,Not satisfied,Quick process
+1889,746,2020-02-15,221,3,Returned,0.18,644,Damaged,Quick process
+1895,376,2021-06-07,411,1,Returned,0.15,645,Incorrect item,Happy with return
+1898,852,2021-10-19,324,2,Returned,0.12,646,Incorrect item,Quick process
+1899,34,2021-12-05,222,3,Returned,0.18,647,Incorrect item,Happy with return
+1905,533,2018-12-17,54,1,Returned,0.04,648,Not satisfied,Delayed refund
+1909,555,2021-07-03,255,3,Returned,0.05,649,Damaged,Quick process
+1913,460,2022-03-04,164,4,Returned,0.28,650,Damaged,Happy with return
+1915,951,2021-07-16,297,2,Returned,0.13,651,Not satisfied,Quick process
+1921,217,2018-03-28,115,1,Returned,0.12,652,Incorrect item,Happy with return
+1924,814,2022-10-31,396,3,Returned,0.03,653,Not satisfied,Quick process
+1930,949,2019-12-29,412,4,Returned,0.1,654,Incorrect item,Happy with return
+1936,847,2019-04-28,176,3,Returned,0.15,655,Not satisfied,Happy with return
+1939,32,2020-06-01,425,1,Returned,0.25,656,Damaged,Quick process
+1947,473,2019-02-20,489,2,Returned,0.29,657,Incorrect item,Delayed refund
+1950,744,2021-11-24,19,3,Returned,0.01,658,Incorrect item,Happy with return
+1952,537,2022-07-07,476,1,Returned,0.2,659,Incorrect item,Happy with return
+1954,560,2020-01-07,245,1,Returned,0.1,660,Not satisfied,Happy with return
+1957,672,2018-10-07,330,3,Returned,0.09,661,Not satisfied,Quick process
+1965,329,2018-10-05,97,3,Returned,0.01,662,Incorrect item,Delayed refund
+1966,643,2021-07-06,303,4,Returned,0.07,663,Not satisfied,Delayed refund
+1967,518,2021-08-03,248,1,Returned,0.2,664,Incorrect item,Happy with return
+1969,764,2020-06-29,380,2,Returned,0.04,665,Damaged,Delayed refund
+1973,354,2022-12-26,302,1,Returned,0.09,666,Not satisfied,Quick process
+1975,443,2018-11-08,322,3,Returned,0.2,667,Not satisfied,Delayed refund
+1978,77,2020-07-22,225,3,Returned,0.2,668,Damaged,Delayed refund
+1981,876,2022-02-13,396,1,Returned,0.04,669,Not satisfied,Quick process
+1985,295,2018-04-18,270,1,Returned,0.1,670,Damaged,Happy with return
+1986,111,2022-06-24,178,2,Returned,0.15,671,Damaged,Happy with return
+1989,432,2018-03-03,459,4,Returned,0.04,672,Damaged,Delayed refund
+1992,315,2019-12-21,448,2,Returned,0.04,673,Damaged,Happy with return
+1994,840,2021-02-17,183,1,Returned,0.13,674,Incorrect item,Delayed refund
+1997,229,2018-12-10,42,2,Returned,0.12,675,Not satisfied,Quick process
+1998,456,2022-10-14,7,2,Returned,0.18,676,Incorrect item,Happy with return
+2008,691,2019-04-17,434,1,Returned,0.23,677,Incorrect item,Delayed refund
+2014,248,2019-05-14,2,3,Returned,0.12,678,Not satisfied,Delayed refund
+2025,527,2019-11-13,143,3,Returned,0.12,679,Not satisfied,Quick process
+2035,99,2022-09-24,412,2,Returned,0.12,680,Damaged,Quick process
+2038,198,2020-03-02,120,4,Returned,0.06,681,Damaged,Happy with return
+2039,39,2020-08-12,453,3,Returned,0.09,682,Damaged,Delayed refund
+2040,345,2020-11-17,375,2,Returned,0.25,683,Not satisfied,Delayed refund
+2041,895,2020-02-12,151,3,Returned,0.24,684,Not satisfied,Quick process
+2042,233,2018-05-29,201,3,Returned,0.28,685,Incorrect item,Quick process
+2047,238,2019-08-23,266,1,Returned,0.15,686,Incorrect item,Happy with return
+2050,714,2020-01-14,223,2,Returned,0.26,687,Incorrect item,Delayed refund
+2057,450,2019-07-18,125,4,Returned,0.27,688,Damaged,Delayed refund
+2061,296,2022-03-12,421,4,Returned,0.19,689,Damaged,Quick process
+2064,811,2020-10-22,452,4,Returned,0.08,690,Damaged,Delayed refund
+2065,822,2018-02-12,33,4,Returned,0.3,691,Damaged,Quick process
+2071,939,2019-12-24,21,4,Returned,0.15,692,Not satisfied,Delayed refund
+2074,8,2018-08-31,212,4,Returned,0.25,693,Damaged,Happy with return
+2079,430,2019-07-16,261,2,Returned,0.01,694,Incorrect item,Happy with return
+2081,284,2020-12-17,85,4,Returned,0.18,695,Damaged,Delayed refund
+2084,745,2020-03-26,347,4,Returned,0.2,696,Not satisfied,Happy with return
+2085,601,2022-05-23,194,1,Returned,0.27,697,Incorrect item,Delayed refund
+2099,158,2022-04-24,456,1,Returned,0.25,698,Damaged,Happy with return
+2102,478,2019-09-08,480,3,Returned,0.07,699,Damaged,Quick process
+2105,935,2021-12-27,85,4,Returned,0.16,700,Incorrect item,Happy with return
+2107,982,2019-10-05,185,2,Returned,0.25,701,Not satisfied,Happy with return
+2110,435,2018-11-15,32,4,Returned,0.09,702,Incorrect item,Happy with return
+2113,86,2020-01-26,440,2,Returned,0.26,703,Damaged,Happy with return
+2117,958,2021-10-05,305,3,Returned,0.21,704,Not satisfied,Quick process
+2124,546,2021-04-16,145,1,Returned,0.18,705,Incorrect item,Delayed refund
+2133,601,2022-06-10,75,2,Returned,0.07,706,Not satisfied,Happy with return
+2134,926,2020-03-04,299,1,Returned,0.14,707,Incorrect item,Happy with return
+2135,433,2021-03-13,417,3,Returned,0.06,708,Damaged,Happy with return
+2136,201,2020-05-04,214,4,Returned,0.14,709,Incorrect item,Quick process
+2139,657,2021-07-10,89,1,Returned,0.06,710,Not satisfied,Happy with return
+2144,415,2019-02-05,294,4,Returned,0.04,711,Damaged,Happy with return
+2145,934,2019-07-02,275,1,Returned,0.3,712,Damaged,Delayed refund
+2148,36,2022-11-19,283,1,Returned,0.04,713,Not satisfied,Quick process
+2149,612,2022-07-29,233,1,Returned,0.25,714,Not satisfied,Quick process
+2150,351,2022-05-13,410,2,Returned,0.24,715,Incorrect item,Delayed refund
+2152,703,2021-10-17,192,3,Returned,0.25,716,Damaged,Delayed refund
+2153,391,2020-07-14,458,1,Returned,0.02,717,Damaged,Delayed refund
+2156,620,2019-11-12,382,3,Returned,0.04,718,Damaged,Quick process
+2161,377,2018-10-02,345,3,Returned,0.07,719,Not satisfied,Delayed refund
+2163,280,2020-01-09,347,3,Returned,0.11,720,Damaged,Quick process
+2164,881,2019-12-10,159,3,Returned,0.11,721,Incorrect item,Happy with return
+2166,429,2022-07-12,473,3,Returned,0.22,722,Not satisfied,Delayed refund
+2168,821,2020-03-28,247,1,Returned,0.09,723,Not satisfied,Happy with return
+2169,726,2019-06-19,232,2,Returned,0.22,724,Not satisfied,Quick process
+2171,861,2019-04-04,226,3,Returned,0.25,725,Incorrect item,Quick process
+2174,683,2019-01-08,274,4,Returned,0.25,726,Not satisfied,Happy with return
+2175,239,2021-01-06,333,3,Returned,0.26,727,Incorrect item,Happy with return
+2176,845,2021-09-16,331,3,Returned,0.22,728,Incorrect item,Quick process
+2180,84,2019-08-06,435,3,Returned,0.13,729,Incorrect item,Delayed refund
+2183,194,2021-06-19,223,1,Returned,0.11,730,Not satisfied,Quick process
+2184,554,2019-12-25,365,2,Returned,0.01,731,Damaged,Happy with return
+2186,202,2019-11-28,490,3,Returned,0.04,732,Damaged,Quick process
+2188,921,2021-04-24,128,4,Returned,0.17,733,Incorrect item,Happy with return
+2189,540,2021-08-28,442,1,Returned,0.13,734,Incorrect item,Happy with return
+2190,502,2021-02-08,143,3,Returned,0.04,735,Damaged,Happy with return
+2192,76,2020-02-18,155,3,Returned,0.01,736,Incorrect item,Happy with return
+2194,765,2021-11-03,306,1,Returned,0.07,737,Incorrect item,Quick process
+2195,33,2021-10-11,131,4,Returned,0.12,738,Damaged,Delayed refund
+2196,8,2022-06-01,43,3,Returned,0.05,739,Incorrect item,Delayed refund
+2197,744,2019-04-02,375,3,Returned,0.09,740,Not satisfied,Quick process
+2201,156,2019-09-20,218,4,Returned,0.12,741,Not satisfied,Quick process
+2202,887,2018-04-09,498,4,Returned,0.24,742,Not satisfied,Delayed refund
+2209,665,2020-11-24,242,1,Returned,0.28,743,Incorrect item,Happy with return
+2210,172,2021-12-01,85,1,Returned,0.16,744,Incorrect item,Delayed refund
+2216,879,2020-12-24,26,1,Returned,0.11,745,Incorrect item,Delayed refund
+2217,651,2020-05-17,121,1,Returned,0.26,746,Damaged,Quick process
+2219,806,2018-05-29,431,3,Returned,0.18,747,Damaged,Quick process
+2220,846,2022-02-17,206,3,Returned,0.02,748,Incorrect item,Delayed refund
+2222,688,2022-03-14,80,4,Returned,0.28,749,Incorrect item,Happy with return
+2223,787,2018-06-09,491,1,Returned,0.24,750,Not satisfied,Happy with return
+2228,840,2018-09-23,193,2,Returned,0.29,751,Damaged,Quick process
+2236,860,2018-03-25,155,3,Returned,0.26,752,Incorrect item,Happy with return
+2238,790,2020-06-02,270,1,Returned,0.19,753,Incorrect item,Happy with return
+2242,863,2019-05-22,309,2,Returned,0.24,754,Incorrect item,Happy with return
+2247,446,2020-05-29,193,3,Returned,0.13,755,Incorrect item,Quick process
+2248,847,2020-02-18,123,4,Returned,0.2,756,Not satisfied,Delayed refund
+2253,74,2019-04-23,172,2,Returned,0.18,757,Not satisfied,Delayed refund
+2255,460,2018-07-27,357,2,Returned,0.16,758,Incorrect item,Quick process
+2257,845,2022-07-16,67,3,Returned,0.07,759,Damaged,Happy with return
+2260,39,2021-12-18,52,4,Returned,0.05,760,Not satisfied,Delayed refund
+2261,703,2022-08-29,388,1,Returned,0.13,761,Incorrect item,Happy with return
+2262,964,2018-06-15,228,1,Returned,0.17,762,Damaged,Delayed refund
+2263,462,2019-01-27,294,4,Returned,0.3,763,Damaged,Delayed refund
+2264,873,2019-04-25,231,2,Returned,0.06,764,Incorrect item,Quick process
+2267,50,2018-02-24,375,1,Returned,0.28,765,Damaged,Quick process
+2272,229,2022-04-21,213,1,Returned,0.02,766,Damaged,Delayed refund
+2275,520,2019-02-16,15,1,Returned,0.23,767,Incorrect item,Happy with return
+2276,871,2019-05-17,81,1,Returned,0.28,768,Not satisfied,Happy with return
+2278,180,2018-10-24,356,1,Returned,0.29,769,Damaged,Delayed refund
+2280,407,2018-04-22,314,1,Returned,0.29,770,Damaged,Delayed refund
+2283,118,2022-05-02,424,2,Returned,0.26,771,Incorrect item,Happy with return
+2285,345,2020-05-27,62,3,Returned,0.19,772,Damaged,Delayed refund
+2286,801,2022-03-21,407,1,Returned,0.13,773,Not satisfied,Delayed refund
+2287,828,2019-10-27,200,1,Returned,0.15,774,Not satisfied,Quick process
+2289,202,2019-11-19,428,1,Returned,0.23,775,Damaged,Quick process
+2298,609,2021-11-03,456,2,Returned,0.15,776,Incorrect item,Happy with return
+2315,397,2020-12-06,159,1,Returned,0.19,777,Damaged,Happy with return
+2321,610,2021-05-04,87,2,Returned,0.03,778,Damaged,Quick process
+2323,426,2020-03-30,105,2,Returned,0,779,Incorrect item,Happy with return
+2330,212,2021-09-23,128,4,Returned,0.18,780,Damaged,Delayed refund
+2334,95,2020-03-10,275,4,Returned,0.28,781,Incorrect item,Quick process
+2336,187,2021-07-27,184,2,Returned,0.19,782,Not satisfied,Happy with return
+2339,435,2020-08-12,23,1,Returned,0.05,783,Damaged,Quick process
+2340,908,2019-04-11,7,4,Returned,0.03,784,Incorrect item,Happy with return
+2343,272,2022-08-27,410,1,Returned,0.29,785,Not satisfied,Quick process
+2346,404,2018-08-28,258,2,Returned,0.24,786,Incorrect item,Delayed refund
+2347,872,2018-05-23,137,3,Returned,0.27,787,Not satisfied,Delayed refund
+2351,288,2020-05-08,115,1,Returned,0.16,788,Not satisfied,Quick process
+2355,304,2022-04-21,101,1,Returned,0.08,789,Damaged,Quick process
+2359,546,2022-11-15,352,1,Returned,0.21,790,Incorrect item,Happy with return
+2364,656,2021-09-21,382,2,Returned,0.1,791,Not satisfied,Quick process
+2366,481,2021-05-25,406,4,Returned,0.27,792,Incorrect item,Quick process
+2369,686,2018-07-08,391,1,Returned,0.18,793,Not satisfied,Delayed refund
+2370,907,2020-11-11,59,2,Returned,0.18,794,Damaged,Quick process
+2374,684,2019-07-04,127,2,Returned,0.2,795,Incorrect item,Delayed refund
+2375,125,2018-10-02,443,1,Returned,0.1,796,Damaged,Delayed refund
+2380,806,2019-05-02,103,2,Returned,0.14,797,Incorrect item,Delayed refund
+2381,214,2020-03-25,336,2,Returned,0.03,798,Damaged,Quick process
+2385,913,2021-10-02,74,3,Returned,0.26,799,Not satisfied,Delayed refund
+2390,729,2020-01-15,107,1,Returned,0.09,800,Incorrect item,Quick process
+2391,317,2020-05-06,237,2,Returned,0.04,801,Incorrect item,Quick process
+2397,42,2018-08-29,135,4,Returned,0.19,802,Not satisfied,Happy with return
+2398,534,2021-04-14,342,2,Returned,0.11,803,Damaged,Delayed refund
+2399,65,2018-07-15,67,1,Returned,0.01,804,Damaged,Delayed refund
+2408,621,2020-03-01,295,2,Returned,0.21,805,Incorrect item,Quick process
+2409,541,2022-02-03,424,1,Returned,0.02,806,Incorrect item,Quick process
+2424,623,2022-10-03,196,2,Returned,0.26,807,Incorrect item,Quick process
+2426,232,2018-05-15,23,4,Returned,0.29,808,Damaged,Happy with return
+2427,350,2018-04-18,392,3,Returned,0.09,809,Damaged,Delayed refund
+2429,660,2022-05-13,120,2,Returned,0.13,810,Damaged,Delayed refund
+2430,133,2021-06-16,418,4,Returned,0.12,811,Not satisfied,Happy with return
+2431,519,2021-06-17,151,2,Returned,0.06,812,Damaged,Quick process
+2432,374,2019-05-20,357,4,Returned,0.11,813,Incorrect item,Happy with return
+2433,659,2021-07-03,297,1,Returned,0.18,814,Not satisfied,Delayed refund
+2437,950,2019-04-06,495,2,Returned,0.16,815,Not satisfied,Happy with return
+2445,541,2022-09-06,469,2,Returned,0.1,816,Not satisfied,Quick process
+2446,899,2021-12-01,175,2,Returned,0.27,817,Damaged,Delayed refund
+2447,558,2020-07-24,240,4,Returned,0.27,818,Damaged,Delayed refund
+2453,453,2021-08-01,179,3,Returned,0.25,819,Incorrect item,Quick process
+2455,62,2019-09-22,368,2,Returned,0.21,820,Not satisfied,Happy with return
+2465,443,2021-05-17,337,2,Returned,0.05,821,Not satisfied,Quick process
+2468,23,2018-09-13,492,3,Returned,0.27,822,Damaged,Quick process
+2472,270,2022-02-27,81,4,Returned,0.04,823,Not satisfied,Quick process
+2475,196,2020-07-17,209,3,Returned,0.26,824,Not satisfied,Delayed refund
+2478,661,2021-09-03,427,4,Returned,0.01,825,Damaged,Happy with return
+2482,512,2021-09-09,498,4,Returned,0.29,826,Not satisfied,Delayed refund
+2484,319,2020-05-28,436,2,Returned,0.01,827,Incorrect item,Happy with return
+2485,35,2020-09-14,457,2,Returned,0.29,828,Not satisfied,Happy with return
+2487,108,2019-05-05,72,2,Returned,0.26,829,Not satisfied,Delayed refund
+2490,516,2019-02-08,434,1,Returned,0.04,830,Not satisfied,Happy with return
+2491,860,2020-02-26,386,4,Returned,0.19,831,Incorrect item,Delayed refund
+2492,104,2022-04-24,418,4,Returned,0.21,832,Not satisfied,Quick process
+2493,226,2020-05-22,254,4,Returned,0.01,833,Not satisfied,Delayed refund
+2497,543,2018-01-30,40,2,Returned,0,834,Not satisfied,Quick process
+2498,92,2020-04-17,332,1,Returned,0.29,835,Damaged,Delayed refund
+2499,644,2022-08-05,283,4,Returned,0.07,836,Incorrect item,Delayed refund
+2500,216,2019-10-22,344,3,Returned,0.03,837,Incorrect item,Happy with return
+2503,124,2018-12-17,345,1,Returned,0.21,838,Not satisfied,Delayed refund
+2504,462,2021-03-09,148,4,Returned,0.18,839,Damaged,Delayed refund
+2506,147,2022-11-07,34,3,Returned,0.13,840,Not satisfied,Quick process
+2514,22,2020-03-06,65,3,Returned,0.08,841,Not satisfied,Delayed refund
+2515,89,2020-10-10,340,2,Returned,0.24,842,Incorrect item,Quick process
+2518,561,2021-08-06,143,2,Returned,0.2,843,Not satisfied,Quick process
+2520,176,2021-11-20,85,2,Returned,0.08,844,Not satisfied,Delayed refund
+2525,350,2020-03-19,462,2,Returned,0.03,845,Damaged,Happy with return
+2526,326,2020-03-22,41,1,Returned,0.07,846,Incorrect item,Quick process
+2527,534,2021-10-09,337,1,Returned,0.2,847,Damaged,Delayed refund
+2529,764,2018-09-14,36,2,Returned,0.12,848,Not satisfied,Quick process
+2532,461,2022-11-24,202,4,Returned,0.16,849,Incorrect item,Delayed refund
+2534,963,2022-02-21,244,3,Returned,0.05,850,Not satisfied,Happy with return
+2540,605,2021-05-28,220,1,Returned,0.14,851,Damaged,Quick process
+2541,319,2019-01-24,363,3,Returned,0.11,852,Not satisfied,Quick process
+2542,191,2019-09-22,327,1,Returned,0.14,853,Not satisfied,Quick process
+2545,399,2018-11-14,267,2,Returned,0.25,854,Damaged,Quick process
+2546,432,2022-04-14,299,4,Returned,0.17,855,Not satisfied,Happy with return
+2554,491,2019-12-20,285,2,Returned,0.2,856,Not satisfied,Delayed refund
+2556,589,2020-07-04,221,1,Returned,0.28,857,Not satisfied,Delayed refund
+2558,647,2022-03-20,142,2,Returned,0.29,858,Incorrect item,Delayed refund
+2564,796,2022-09-26,353,4,Returned,0.25,859,Incorrect item,Quick process
+2568,383,2020-02-10,302,3,Returned,0.1,860,Not satisfied,Delayed refund
+2572,290,2022-10-11,407,1,Returned,0.07,861,Not satisfied,Happy with return
+2573,39,2022-05-26,32,2,Returned,0.01,862,Incorrect item,Quick process
+2586,89,2019-04-07,337,4,Returned,0.15,863,Damaged,Quick process
+2588,815,2020-09-11,496,1,Returned,0.03,864,Not satisfied,Quick process
+2589,323,2019-09-26,397,1,Returned,0.25,865,Incorrect item,Happy with return
+2596,843,2022-03-12,352,2,Returned,0.17,866,Incorrect item,Delayed refund
+2604,631,2020-11-02,29,1,Returned,0.25,867,Damaged,Delayed refund
+2612,274,2018-12-17,422,4,Returned,0.14,868,Damaged,Delayed refund
+2616,725,2019-04-16,346,1,Returned,0.23,869,Not satisfied,Quick process
+2618,458,2022-03-22,109,2,Returned,0.23,870,Damaged,Delayed refund
+2624,833,2018-04-11,345,2,Returned,0.05,871,Damaged,Delayed refund
+2635,65,2020-04-28,400,3,Returned,0.26,872,Incorrect item,Happy with return
+2637,385,2021-03-03,282,4,Returned,0.12,873,Incorrect item,Quick process
+2640,458,2019-06-02,237,1,Returned,0.09,874,Incorrect item,Delayed refund
+2642,190,2018-06-14,44,2,Returned,0.1,875,Damaged,Happy with return
+2658,588,2020-12-20,7,3,Returned,0.06,876,Damaged,Quick process
+2659,423,2018-03-05,376,2,Returned,0.23,877,Incorrect item,Happy with return
+2661,904,2020-07-16,1,2,Returned,0.07,878,Not satisfied,Quick process
+2664,828,2020-09-09,244,3,Returned,0.27,879,Incorrect item,Delayed refund
+2667,821,2021-03-17,36,3,Returned,0.27,880,Incorrect item,Happy with return
+2670,700,2020-03-02,177,2,Returned,0.18,881,Not satisfied,Happy with return
+2672,343,2018-03-01,144,2,Returned,0.06,882,Damaged,Quick process
+2674,321,2018-04-11,198,1,Returned,0.27,883,Not satisfied,Quick process
+2675,511,2020-02-07,364,4,Returned,0.1,884,Damaged,Happy with return
+2676,513,2019-10-30,410,3,Returned,0.28,885,Not satisfied,Quick process
+2678,635,2018-08-05,467,2,Returned,0.2,886,Not satisfied,Happy with return
+2681,144,2022-09-17,1,2,Returned,0.28,887,Incorrect item,Happy with return
+2682,852,2021-10-16,85,1,Returned,0.27,888,Damaged,Happy with return
+2685,997,2020-06-09,203,4,Returned,0.22,889,Incorrect item,Delayed refund
+2686,834,2021-08-29,465,3,Returned,0.28,890,Not satisfied,Happy with return
+2688,796,2020-12-19,236,4,Returned,0.22,891,Incorrect item,Quick process
+2690,523,2019-12-04,431,3,Returned,0.13,892,Damaged,Delayed refund
+2693,419,2019-07-09,309,1,Returned,0.12,893,Damaged,Quick process
+2702,272,2018-03-27,318,4,Returned,0.2,894,Damaged,Delayed refund
+2703,890,2019-10-07,343,2,Returned,0.22,895,Damaged,Happy with return
+2706,980,2020-08-10,384,3,Returned,0.24,896,Incorrect item,Delayed refund
+2708,394,2022-06-11,309,4,Returned,0.21,897,Not satisfied,Quick process
+2712,518,2022-02-23,137,3,Returned,0.02,898,Not satisfied,Delayed refund
+2716,932,2019-05-27,379,2,Returned,0.26,899,Damaged,Happy with return
+2718,36,2019-06-01,188,2,Returned,0.16,900,Damaged,Quick process
+2720,857,2018-01-07,209,3,Returned,0.22,901,Not satisfied,Happy with return
+2722,557,2019-02-26,124,1,Returned,0.19,902,Incorrect item,Quick process
+2726,543,2022-09-21,326,4,Returned,0.25,903,Not satisfied,Delayed refund
+2735,242,2020-12-30,443,1,Returned,0.28,904,Damaged,Quick process
+2742,622,2018-10-12,228,3,Returned,0.05,905,Not satisfied,Happy with return
+2748,977,2019-06-22,325,3,Returned,0.2,906,Incorrect item,Quick process
+2752,509,2021-06-28,5,2,Returned,0.23,907,Damaged,Quick process
+2755,397,2018-06-18,366,4,Returned,0.25,908,Incorrect item,Quick process
+2756,173,2018-06-05,239,2,Returned,0.26,909,Incorrect item,Quick process
+2764,777,2019-11-25,450,3,Returned,0.29,910,Not satisfied,Quick process
+2767,447,2019-07-20,312,3,Returned,0.16,911,Not satisfied,Happy with return
+2769,574,2019-01-31,35,1,Returned,0.25,912,Not satisfied,Quick process
+2771,598,2020-12-17,391,2,Returned,0.11,913,Damaged,Delayed refund
+2772,671,2018-11-25,406,2,Returned,0.02,914,Incorrect item,Quick process
+2774,138,2022-03-16,28,1,Returned,0.03,915,Damaged,Delayed refund
+2780,282,2021-11-19,177,4,Returned,0.19,916,Damaged,Delayed refund
+2785,840,2022-04-10,261,4,Returned,0.15,917,Not satisfied,Quick process
+2786,605,2021-01-06,114,1,Returned,0.04,918,Incorrect item,Quick process
+2787,581,2022-07-10,45,4,Returned,0.09,919,Not satisfied,Delayed refund
+2789,527,2020-12-13,343,2,Returned,0.27,920,Not satisfied,Happy with return
+2795,590,2020-11-16,222,1,Returned,0.26,921,Not satisfied,Delayed refund
+2797,450,2018-06-18,284,3,Returned,0.2,922,Not satisfied,Happy with return
+2798,724,2019-07-10,38,4,Returned,0.07,923,Incorrect item,Happy with return
+2803,864,2018-05-04,378,3,Returned,0.02,924,Not satisfied,Delayed refund
+2804,985,2022-12-06,335,4,Returned,0.07,925,Not satisfied,Quick process
+2808,840,2020-08-24,464,3,Returned,0.19,926,Incorrect item,Happy with return
+2810,202,2022-07-03,394,4,Returned,0.09,927,Not satisfied,Happy with return
+2816,336,2022-04-03,400,1,Returned,0.24,928,Incorrect item,Delayed refund
+2825,285,2018-05-31,228,1,Returned,0.2,929,Not satisfied,Delayed refund
+2831,141,2021-05-20,122,4,Returned,0.28,930,Not satisfied,Quick process
+2837,959,2021-04-24,270,3,Returned,0.28,931,Incorrect item,Happy with return
+2839,655,2020-07-10,310,3,Returned,0.21,932,Not satisfied,Quick process
+2840,766,2018-04-07,182,4,Returned,0,933,Not satisfied,Quick process
+2841,540,2022-11-24,183,2,Returned,0.3,934,Damaged,Happy with return
+2846,62,2019-09-20,53,4,Returned,0.05,935,Incorrect item,Happy with return
+2848,228,2019-11-28,170,2,Returned,0.07,936,Damaged,Delayed refund
+2849,883,2020-10-15,148,2,Returned,0.22,937,Damaged,Happy with return
+2858,133,2021-02-04,83,3,Returned,0.29,938,Not satisfied,Happy with return
+2863,950,2019-12-21,281,4,Returned,0.18,939,Incorrect item,Delayed refund
+2867,270,2022-02-12,72,2,Returned,0.02,940,Damaged,Delayed refund
+2870,686,2019-08-08,17,2,Returned,0.1,941,Not satisfied,Quick process
+2873,663,2018-07-21,49,1,Returned,0.07,942,Not satisfied,Quick process
+2875,836,2020-01-12,405,4,Returned,0.09,943,Damaged,Happy with return
+2879,860,2020-04-02,156,4,Returned,0.16,944,Not satisfied,Delayed refund
+2883,135,2019-01-14,393,4,Returned,0.19,945,Not satisfied,Quick process
+2887,277,2019-09-07,29,1,Returned,0.24,946,Not satisfied,Quick process
+2888,135,2022-05-22,338,4,Returned,0.16,947,Not satisfied,Quick process
+2889,765,2019-04-09,130,3,Returned,0.08,948,Damaged,Happy with return
+2903,646,2019-12-09,209,4,Returned,0.21,949,Incorrect item,Happy with return
+2917,776,2019-04-28,42,3,Returned,0.08,950,Not satisfied,Quick process
+2918,183,2019-08-16,193,3,Returned,0.21,951,Damaged,Delayed refund
+2920,866,2022-04-20,241,3,Returned,0.12,952,Incorrect item,Quick process
+2921,983,2019-02-15,174,1,Returned,0.26,953,Not satisfied,Delayed refund
+2922,231,2020-10-13,400,2,Returned,0.04,954,Damaged,Happy with return
+2926,550,2021-06-06,145,3,Returned,0.18,955,Incorrect item,Delayed refund
+2927,850,2018-07-04,65,2,Returned,0.14,956,Incorrect item,Delayed refund
+2929,611,2022-01-11,266,1,Returned,0.09,957,Not satisfied,Happy with return
+2934,169,2022-03-23,429,3,Returned,0.19,958,Not satisfied,Happy with return
+2937,683,2019-10-12,227,3,Returned,0.2,959,Damaged,Quick process
+2938,688,2021-10-09,187,1,Returned,0.02,960,Incorrect item,Happy with return
+2939,835,2019-07-28,33,3,Returned,0.24,961,Not satisfied,Delayed refund
+2941,58,2019-02-09,377,4,Returned,0.09,962,Not satisfied,Happy with return
+2943,17,2020-01-09,183,3,Returned,0.13,963,Damaged,Quick process
+2945,229,2019-08-25,171,2,Returned,0.12,964,Not satisfied,Quick process
+2951,967,2018-03-17,87,1,Returned,0.15,965,Incorrect item,Happy with return
+2954,269,2018-05-14,161,4,Returned,0.24,966,Incorrect item,Delayed refund
+2959,713,2022-04-20,220,1,Returned,0.26,967,Not satisfied,Happy with return
+2962,275,2019-09-04,294,4,Returned,0.21,968,Incorrect item,Delayed refund
+2975,105,2022-01-15,333,4,Returned,0.15,969,Incorrect item,Happy with return
+2989,305,2022-05-02,89,1,Returned,0.27,970,Damaged,Happy with return
+2990,974,2021-05-02,414,4,Returned,0.19,971,Not satisfied,Quick process
+2993,55,2018-11-29,399,2,Returned,0.09,972,Damaged,Delayed refund
+3000,665,2021-03-01,363,3,Returned,0.1,973,Not satisfied,Quick process
+3001,128,2021-05-02,52,1,Returned,0.22,974,Not satisfied,Delayed refund
+3003,585,2020-05-27,102,3,Returned,0.3,975,Not satisfied,Quick process
+3005,537,2019-05-14,110,1,Returned,0.04,976,Not satisfied,Quick process
+3006,886,2018-05-20,415,3,Returned,0.1,977,Damaged,Delayed refund
+3008,178,2021-03-18,416,1,Returned,0.21,978,Incorrect item,Happy with return
+3011,889,2019-12-28,50,2,Returned,0.3,979,Incorrect item,Happy with return
+3012,878,2019-09-21,179,1,Returned,0.02,980,Incorrect item,Quick process
+3015,216,2021-12-24,270,4,Returned,0.25,981,Incorrect item,Delayed refund
+3020,954,2022-01-08,89,2,Returned,0.16,982,Incorrect item,Delayed refund
+3021,721,2018-08-14,473,2,Returned,0.26,983,Damaged,Delayed refund
+3023,366,2018-12-09,193,2,Returned,0.24,984,Incorrect item,Delayed refund
+3025,742,2020-08-19,459,3,Returned,0.12,985,Not satisfied,Happy with return
+3029,454,2020-11-05,88,4,Returned,0.04,986,Incorrect item,Delayed refund
+3032,149,2022-02-05,71,4,Returned,0.22,987,Incorrect item,Quick process
+3033,170,2018-12-16,454,3,Returned,0,988,Incorrect item,Happy with return
+3035,955,2021-11-13,484,4,Returned,0.13,989,Damaged,Delayed refund
+3036,855,2019-12-07,399,3,Returned,0.16,990,Damaged,Delayed refund
+3037,195,2019-08-05,493,1,Returned,0.02,991,Damaged,Delayed refund
+3043,144,2020-12-31,202,2,Returned,0.15,992,Not satisfied,Quick process
+3044,895,2021-02-07,192,1,Returned,0.09,993,Damaged,Happy with return
+3054,995,2018-08-22,262,2,Returned,0.15,994,Not satisfied,Quick process
+3056,832,2021-06-10,489,4,Returned,0.21,995,Damaged,Delayed refund
+3057,277,2022-03-03,249,3,Returned,0.03,996,Not satisfied,Quick process
+3059,848,2021-09-08,172,2,Returned,0.15,997,Damaged,Quick process
+3064,112,2018-03-18,120,1,Returned,0.2,998,Incorrect item,Happy with return
+3065,85,2020-10-24,19,4,Returned,0.01,999,Incorrect item,Quick process
+3066,719,2021-11-10,129,3,Returned,0.28,1000,Damaged,Delayed refund
+3067,906,2019-12-22,242,2,Returned,0.03,1001,Not satisfied,Delayed refund
+3068,204,2020-01-13,482,4,Returned,0.23,1002,Damaged,Quick process
+3072,702,2021-11-20,167,2,Returned,0.27,1003,Not satisfied,Quick process
+3073,118,2020-05-06,357,3,Returned,0.17,1004,Incorrect item,Happy with return
+3077,445,2022-02-13,89,1,Returned,0.04,1005,Not satisfied,Quick process
+3088,478,2019-09-28,182,3,Returned,0.04,1006,Incorrect item,Quick process
+3092,844,2022-12-03,200,1,Returned,0.09,1007,Not satisfied,Happy with return
+3094,106,2020-11-06,216,1,Returned,0.27,1008,Incorrect item,Happy with return
+3107,902,2018-06-25,85,1,Returned,0.05,1009,Incorrect item,Quick process
+3108,607,2021-09-08,327,4,Returned,0.1,1010,Not satisfied,Quick process
+3110,848,2021-08-08,409,3,Returned,0.25,1011,Incorrect item,Happy with return
+3115,731,2020-12-06,157,1,Returned,0.08,1012,Not satisfied,Quick process
+3116,74,2018-11-22,334,4,Returned,0.17,1013,Damaged,Happy with return
+3117,238,2020-01-31,395,3,Returned,0.05,1014,Not satisfied,Delayed refund
+3121,353,2019-12-19,28,2,Returned,0.08,1015,Damaged,Quick process
+3124,381,2019-11-09,195,3,Returned,0.1,1016,Not satisfied,Quick process
+3126,230,2018-01-09,233,2,Returned,0.18,1017,Damaged,Happy with return
+3129,91,2022-06-19,311,4,Returned,0.25,1018,Damaged,Delayed refund
+3132,725,2020-03-25,2,1,Returned,0.06,1019,Not satisfied,Happy with return
+3134,270,2021-09-16,72,2,Returned,0.05,1020,Not satisfied,Quick process
+3139,241,2022-11-04,432,1,Returned,0.02,1021,Damaged,Delayed refund
+3141,339,2019-05-12,131,2,Returned,0.01,1022,Damaged,Happy with return
+3142,598,2020-02-03,58,1,Returned,0.19,1023,Incorrect item,Quick process
+3145,516,2022-03-01,379,1,Returned,0.03,1024,Damaged,Happy with return
+3149,903,2018-08-11,357,4,Returned,0.27,1025,Damaged,Quick process
+3156,994,2019-04-20,429,1,Returned,0.27,1026,Incorrect item,Delayed refund
+3160,693,2018-03-18,105,3,Returned,0.02,1027,Damaged,Quick process
+3171,987,2022-09-06,319,2,Returned,0.21,1028,Not satisfied,Happy with return
+3173,14,2021-10-28,414,2,Returned,0.03,1029,Incorrect item,Delayed refund
+3174,53,2021-07-15,288,2,Returned,0.1,1030,Damaged,Happy with return
+3175,349,2019-02-10,161,3,Returned,0.15,1031,Not satisfied,Quick process
+3176,533,2022-01-23,496,2,Returned,0.26,1032,Damaged,Delayed refund
+3187,754,2022-06-18,439,4,Returned,0.03,1033,Incorrect item,Delayed refund
+3188,946,2018-03-14,387,2,Returned,0.17,1034,Not satisfied,Delayed refund
+3192,147,2018-05-17,64,2,Returned,0.14,1035,Damaged,Delayed refund
+3196,94,2020-08-01,299,1,Returned,0.06,1036,Damaged,Delayed refund
+3200,625,2019-06-20,359,4,Returned,0.23,1037,Incorrect item,Delayed refund
+3202,200,2022-02-25,15,3,Returned,0.19,1038,Not satisfied,Happy with return
+3204,584,2021-12-24,381,1,Returned,0.12,1039,Not satisfied,Happy with return
+3206,623,2021-10-30,407,3,Returned,0.14,1040,Incorrect item,Happy with return
+3207,879,2019-05-11,453,1,Returned,0.2,1041,Incorrect item,Quick process
+3209,722,2021-07-02,38,1,Returned,0.25,1042,Incorrect item,Delayed refund
+3210,659,2022-06-09,53,1,Returned,0.17,1043,Incorrect item,Quick process
+3211,498,2021-01-03,247,3,Returned,0.29,1044,Not satisfied,Delayed refund
+3212,317,2018-03-27,375,1,Returned,0.11,1045,Damaged,Delayed refund
+3213,822,2018-04-09,203,1,Returned,0.18,1046,Not satisfied,Happy with return
+3214,153,2020-04-08,195,3,Returned,0.07,1047,Damaged,Happy with return
+3215,306,2021-05-28,333,2,Returned,0.23,1048,Not satisfied,Quick process
+3217,958,2020-08-22,479,4,Returned,0.19,1049,Not satisfied,Happy with return
+3219,654,2019-08-01,438,1,Returned,0.07,1050,Incorrect item,Happy with return
+3224,220,2020-06-27,198,1,Returned,0.18,1051,Incorrect item,Happy with return
+3226,138,2022-11-27,319,3,Returned,0.25,1052,Not satisfied,Delayed refund
+3228,682,2020-04-07,121,4,Returned,0.17,1053,Damaged,Happy with return
+3229,112,2021-06-18,172,3,Returned,0.11,1054,Not satisfied,Happy with return
+3230,89,2021-12-14,56,4,Returned,0.18,1055,Damaged,Happy with return
+3231,653,2020-01-07,111,1,Returned,0.2,1056,Not satisfied,Delayed refund
+3236,147,2019-06-19,145,4,Returned,0.15,1057,Incorrect item,Happy with return
+3238,559,2018-06-12,492,2,Returned,0.1,1058,Not satisfied,Happy with return
+3239,661,2020-07-17,327,4,Returned,0.09,1059,Not satisfied,Delayed refund
+3241,451,2018-08-03,273,4,Returned,0.11,1060,Damaged,Happy with return
+3246,550,2019-08-03,214,2,Returned,0.09,1061,Incorrect item,Quick process
+3247,698,2018-08-27,317,2,Returned,0.23,1062,Damaged,Delayed refund
+3248,615,2021-01-24,413,1,Returned,0.03,1063,Not satisfied,Delayed refund
+3250,248,2020-02-19,315,2,Returned,0.07,1064,Not satisfied,Delayed refund
+3251,56,2020-10-29,104,1,Returned,0.01,1065,Incorrect item,Happy with return
+3254,227,2021-11-13,259,4,Returned,0.06,1066,Incorrect item,Quick process
+3255,409,2018-07-15,30,3,Returned,0.06,1067,Damaged,Quick process
+3256,450,2020-03-10,389,3,Returned,0.14,1068,Not satisfied,Quick process
+3261,64,2019-10-29,225,3,Returned,0.12,1069,Incorrect item,Quick process
+3262,26,2020-04-02,432,4,Returned,0.23,1070,Damaged,Delayed refund
+3263,403,2021-10-02,462,3,Returned,0.29,1071,Not satisfied,Quick process
+3265,832,2018-11-13,397,2,Returned,0.28,1072,Not satisfied,Quick process
+3266,485,2021-07-08,31,3,Returned,0.17,1073,Incorrect item,Delayed refund
+3269,945,2018-05-07,498,2,Returned,0.12,1074,Damaged,Happy with return
+3271,764,2018-09-06,93,1,Returned,0.01,1075,Damaged,Happy with return
+3273,177,2021-08-27,411,2,Returned,0.02,1076,Damaged,Delayed refund
+3275,722,2018-04-09,157,3,Returned,0.22,1077,Incorrect item,Happy with return
+3276,573,2022-03-10,326,1,Returned,0.26,1078,Incorrect item,Delayed refund
+3277,555,2019-06-06,90,3,Returned,0.08,1079,Damaged,Quick process
+3280,261,2019-12-05,75,4,Returned,0.08,1080,Not satisfied,Quick process
+3282,369,2018-05-17,453,3,Returned,0.16,1081,Not satisfied,Quick process
+3285,8,2021-12-11,401,2,Returned,0.12,1082,Incorrect item,Quick process
+3286,112,2020-01-25,432,3,Returned,0.05,1083,Damaged,Delayed refund
+3287,63,2022-07-19,292,4,Returned,0.15,1084,Damaged,Quick process
+3288,241,2018-01-20,115,3,Returned,0.11,1085,Incorrect item,Happy with return
+3290,122,2018-03-18,193,1,Returned,0.03,1086,Incorrect item,Quick process
+3296,954,2022-04-17,84,4,Returned,0.07,1087,Not satisfied,Happy with return
+3302,756,2019-08-03,311,1,Returned,0.09,1088,Incorrect item,Happy with return
+3303,416,2022-04-16,111,2,Returned,0.24,1089,Incorrect item,Happy with return
+3308,580,2018-01-13,336,2,Returned,0.08,1090,Damaged,Quick process
+3315,803,2022-08-09,453,1,Returned,0.18,1091,Incorrect item,Happy with return
+3316,818,2019-07-30,345,4,Returned,0.17,1092,Not satisfied,Happy with return
+3322,825,2020-07-27,57,3,Returned,0.14,1093,Incorrect item,Quick process
+3324,834,2020-02-02,489,1,Returned,0.2,1094,Not satisfied,Quick process
+3326,411,2018-03-05,184,1,Returned,0.22,1095,Not satisfied,Delayed refund
+3328,924,2022-09-02,381,1,Returned,0.23,1096,Damaged,Delayed refund
+3330,224,2019-06-29,265,3,Returned,0.19,1097,Damaged,Quick process
+3337,685,2020-03-30,216,4,Returned,0.17,1098,Not satisfied,Delayed refund
+3338,775,2022-08-18,45,4,Returned,0.21,1099,Damaged,Delayed refund
+3342,588,2020-06-17,386,1,Returned,0.19,1100,Not satisfied,Delayed refund
+3343,806,2020-11-16,281,2,Returned,0.07,1101,Damaged,Happy with return
+3344,117,2018-07-23,267,1,Returned,0.16,1102,Damaged,Quick process
+3345,855,2022-12-03,480,3,Returned,0.06,1103,Incorrect item,Delayed refund
+3346,597,2019-03-26,55,1,Returned,0.26,1104,Not satisfied,Delayed refund
+3351,980,2020-02-22,349,1,Returned,0.23,1105,Incorrect item,Delayed refund
+3352,936,2022-09-03,101,1,Returned,0.08,1106,Incorrect item,Delayed refund
+3355,816,2019-06-03,385,1,Returned,0.11,1107,Damaged,Quick process
+3356,563,2020-03-30,350,4,Returned,0.02,1108,Not satisfied,Quick process
+3368,168,2020-09-06,15,4,Returned,0.11,1109,Incorrect item,Happy with return
+3374,350,2020-02-24,363,1,Returned,0.12,1110,Incorrect item,Quick process
+3375,960,2022-09-01,420,3,Returned,0.04,1111,Damaged,Delayed refund
+3376,980,2022-07-09,108,3,Returned,0.19,1112,Not satisfied,Happy with return
+3377,26,2018-01-26,20,3,Returned,0.08,1113,Not satisfied,Quick process
+3378,491,2019-10-19,77,1,Returned,0.25,1114,Not satisfied,Delayed refund
+3385,301,2018-05-25,395,2,Returned,0.19,1115,Not satisfied,Delayed refund
+3386,14,2019-08-29,449,4,Returned,0.26,1116,Not satisfied,Happy with return
+3391,547,2022-02-03,173,1,Returned,0.27,1117,Incorrect item,Quick process
+3394,682,2019-01-06,201,3,Returned,0.19,1118,Damaged,Happy with return
+3398,943,2018-01-19,239,1,Returned,0.11,1119,Damaged,Delayed refund
+3399,635,2018-07-21,219,1,Returned,0.3,1120,Damaged,Happy with return
+3400,603,2022-11-14,275,1,Returned,0.12,1121,Damaged,Quick process
+3402,751,2022-05-09,137,1,Returned,0.27,1122,Not satisfied,Happy with return
+3408,784,2020-01-14,471,4,Returned,0.14,1123,Not satisfied,Happy with return
+3412,865,2018-12-04,356,4,Returned,0.07,1124,Incorrect item,Happy with return
+3413,694,2020-08-23,221,1,Returned,0.19,1125,Damaged,Quick process
+3415,45,2019-11-20,129,2,Returned,0.27,1126,Damaged,Quick process
+3417,862,2021-06-11,151,1,Returned,0.25,1127,Not satisfied,Quick process
+3419,995,2021-09-12,94,1,Returned,0.27,1128,Not satisfied,Quick process
+3420,987,2022-09-18,288,1,Returned,0.23,1129,Incorrect item,Happy with return
+3421,990,2018-03-04,258,1,Returned,0.07,1130,Incorrect item,Happy with return
+3422,745,2020-03-15,308,1,Returned,0.07,1131,Damaged,Quick process
+3424,818,2022-02-28,217,2,Returned,0.18,1132,Damaged,Quick process
+3426,999,2021-06-24,306,2,Returned,0.1,1133,Not satisfied,Happy with return
+3427,126,2020-08-31,278,3,Returned,0.09,1134,Not satisfied,Delayed refund
+3428,661,2019-07-02,314,3,Returned,0.03,1135,Incorrect item,Happy with return
+3431,85,2020-08-17,30,1,Returned,0.17,1136,Incorrect item,Delayed refund
+3433,924,2020-10-31,480,2,Returned,0.1,1137,Incorrect item,Delayed refund
+3435,952,2020-03-27,156,2,Returned,0.06,1138,Incorrect item,Happy with return
+3438,977,2021-05-15,288,2,Returned,0.04,1139,Damaged,Delayed refund
+3441,507,2021-06-16,342,4,Returned,0.16,1140,Damaged,Delayed refund
+3443,951,2019-01-15,218,3,Returned,0.2,1141,Not satisfied,Happy with return
+3451,532,2020-01-19,446,1,Returned,0.07,1142,Damaged,Quick process
+3453,980,2020-12-05,69,4,Returned,0.05,1143,Not satisfied,Delayed refund
+3456,453,2021-06-14,87,3,Returned,0.16,1144,Not satisfied,Delayed refund
+3459,600,2019-10-28,377,3,Returned,0.02,1145,Damaged,Delayed refund
+3460,295,2019-11-07,139,2,Returned,0.06,1146,Incorrect item,Happy with return
+3467,234,2022-11-09,380,4,Returned,0.12,1147,Incorrect item,Quick process
+3468,381,2022-02-23,439,4,Returned,0.04,1148,Damaged,Happy with return
+3469,174,2018-08-08,348,4,Returned,0.1,1149,Incorrect item,Delayed refund
+3476,623,2021-12-06,205,1,Returned,0.07,1150,Not satisfied,Happy with return
+3478,254,2022-12-19,445,1,Returned,0.02,1151,Damaged,Quick process
+3483,172,2019-07-25,132,1,Returned,0.25,1152,Incorrect item,Quick process
+3484,131,2021-04-07,155,4,Returned,0.24,1153,Not satisfied,Delayed refund
+3485,584,2018-07-03,374,3,Returned,0.18,1154,Damaged,Delayed refund
+3486,391,2020-08-14,48,4,Returned,0.26,1155,Incorrect item,Happy with return
+3491,40,2022-04-02,147,2,Returned,0.29,1156,Incorrect item,Quick process
+3495,694,2022-01-21,74,2,Returned,0.15,1157,Incorrect item,Happy with return
+3498,922,2022-07-06,60,4,Returned,0.28,1158,Damaged,Delayed refund
+3499,730,2021-08-16,318,4,Returned,0,1159,Damaged,Quick process
+3500,835,2020-08-08,220,1,Returned,0.11,1160,Not satisfied,Happy with return
+3506,285,2019-08-17,251,3,Returned,0.02,1161,Incorrect item,Happy with return
+3507,921,2019-03-22,97,2,Returned,0.22,1162,Damaged,Delayed refund
+3510,902,2022-11-26,70,2,Returned,0.07,1163,Incorrect item,Delayed refund
+3513,486,2021-11-28,261,4,Returned,0.14,1164,Not satisfied,Happy with return
+3527,576,2020-02-01,395,2,Returned,0.18,1165,Not satisfied,Quick process
+3528,359,2019-08-01,473,3,Returned,0.07,1166,Incorrect item,Delayed refund
+3532,570,2021-09-13,166,4,Returned,0.25,1167,Incorrect item,Happy with return
+3536,767,2019-06-10,142,4,Returned,0.2,1168,Damaged,Delayed refund
+3539,787,2020-10-13,104,4,Returned,0.11,1169,Incorrect item,Delayed refund
+3543,282,2021-11-05,170,2,Returned,0.18,1170,Not satisfied,Quick process
+3547,856,2022-01-03,133,4,Returned,0.07,1171,Incorrect item,Happy with return
+3548,139,2022-10-16,412,2,Returned,0.26,1172,Damaged,Delayed refund
+3550,637,2022-09-03,267,3,Returned,0.25,1173,Damaged,Quick process
+3551,724,2019-01-10,24,2,Returned,0.26,1174,Damaged,Happy with return
+3560,105,2018-01-26,198,4,Returned,0.17,1175,Damaged,Quick process
+3568,723,2022-06-30,302,2,Returned,0.14,1176,Not satisfied,Delayed refund
+3569,492,2022-07-21,318,2,Returned,0.08,1177,Incorrect item,Delayed refund
+3571,516,2021-02-17,108,3,Returned,0.2,1178,Incorrect item,Quick process
+3572,710,2018-12-30,376,3,Returned,0.07,1179,Incorrect item,Quick process
+3575,321,2021-09-11,446,1,Returned,0.02,1180,Damaged,Quick process
+3577,549,2019-04-05,321,1,Returned,0.19,1181,Not satisfied,Delayed refund
+3581,518,2018-07-16,332,2,Returned,0.05,1182,Not satisfied,Happy with return
+3582,603,2021-12-13,452,1,Returned,0.07,1183,Incorrect item,Quick process
+3583,299,2018-07-14,425,2,Returned,0.21,1184,Not satisfied,Delayed refund
+3586,994,2022-12-24,491,2,Returned,0.3,1185,Damaged,Happy with return
+3589,121,2020-07-02,136,2,Returned,0.2,1186,Incorrect item,Happy with return
+3591,523,2021-05-05,208,1,Returned,0.15,1187,Damaged,Delayed refund
+3596,414,2022-03-05,90,3,Returned,0.24,1188,Not satisfied,Quick process
+3598,204,2021-02-15,324,3,Returned,0.11,1189,Not satisfied,Delayed refund
+3599,591,2018-08-13,374,3,Returned,0.04,1190,Damaged,Quick process
+3600,724,2020-07-15,259,4,Returned,0.06,1191,Incorrect item,Quick process
+3604,846,2020-04-05,22,2,Returned,0.01,1192,Incorrect item,Delayed refund
+3606,1,2022-07-24,191,4,Returned,0.27,1193,Incorrect item,Quick process
+3607,40,2022-08-18,444,4,Returned,0.19,1194,Incorrect item,Quick process
+3608,717,2019-09-27,412,1,Returned,0.18,1195,Incorrect item,Delayed refund
+3611,813,2022-06-28,120,2,Returned,0.13,1196,Damaged,Delayed refund
+3613,209,2018-12-07,298,4,Returned,0.06,1197,Not satisfied,Quick process
+3615,887,2018-12-30,10,3,Returned,0.11,1198,Incorrect item,Happy with return
+3618,356,2019-03-19,482,1,Returned,0.26,1199,Damaged,Happy with return
+3626,628,2020-05-02,464,1,Returned,0.12,1200,Incorrect item,Happy with return
+3632,188,2021-08-17,349,2,Returned,0.05,1201,Incorrect item,Delayed refund
+3633,840,2018-09-23,383,4,Returned,0.18,1202,Damaged,Quick process
+3634,690,2020-09-05,383,3,Returned,0.17,1203,Damaged,Quick process
+3637,862,2018-01-11,82,1,Returned,0.28,1204,Not satisfied,Happy with return
+3639,694,2018-01-14,486,1,Returned,0.12,1205,Not satisfied,Happy with return
+3640,76,2021-10-15,237,4,Returned,0.2,1206,Damaged,Delayed refund
+3642,321,2019-12-02,354,4,Returned,0.21,1207,Damaged,Happy with return
+3644,121,2021-05-18,379,3,Returned,0.3,1208,Damaged,Delayed refund
+3649,309,2020-03-25,66,2,Returned,0.14,1209,Incorrect item,Happy with return
+3650,436,2019-03-20,330,1,Returned,0.1,1210,Not satisfied,Delayed refund
+3652,452,2019-07-19,210,1,Returned,0.03,1211,Damaged,Quick process
+3653,986,2019-02-04,304,4,Returned,0.12,1212,Damaged,Delayed refund
+3655,204,2021-10-20,306,1,Returned,0.16,1213,Damaged,Delayed refund
+3660,302,2020-05-07,43,2,Returned,0.07,1214,Not satisfied,Happy with return
+3661,134,2021-10-10,4,1,Returned,0.07,1215,Incorrect item,Quick process
+3662,270,2020-01-06,441,3,Returned,0.11,1216,Incorrect item,Delayed refund
+3664,621,2022-02-27,18,1,Returned,0.11,1217,Damaged,Delayed refund
+3665,625,2021-12-03,132,4,Returned,0.03,1218,Incorrect item,Quick process
+3666,341,2022-10-20,263,1,Returned,0.22,1219,Not satisfied,Happy with return
+3671,30,2021-10-05,236,2,Returned,0.03,1220,Not satisfied,Delayed refund
+3672,479,2018-12-16,167,2,Returned,0.22,1221,Damaged,Quick process
+3674,103,2018-01-27,233,2,Returned,0.12,1222,Incorrect item,Delayed refund
+3675,698,2020-06-26,178,2,Returned,0.04,1223,Incorrect item,Delayed refund
+3676,502,2019-06-21,242,3,Returned,0.21,1224,Incorrect item,Quick process
+3688,369,2022-03-28,83,2,Returned,0.12,1225,Damaged,Happy with return
+3691,7,2022-07-12,251,4,Returned,0.29,1226,Not satisfied,Happy with return
+3692,559,2021-10-17,455,4,Returned,0.07,1227,Not satisfied,Quick process
+3693,993,2020-08-25,293,2,Returned,0.17,1228,Damaged,Delayed refund
+3696,651,2018-12-01,70,3,Returned,0.08,1229,Not satisfied,Quick process
+3702,788,2018-12-17,422,3,Returned,0.03,1230,Incorrect item,Delayed refund
+3710,16,2018-09-07,336,1,Returned,0.14,1231,Damaged,Delayed refund
+3712,39,2022-05-28,20,1,Returned,0.29,1232,Damaged,Delayed refund
+3713,810,2018-06-06,169,4,Returned,0.24,1233,Damaged,Happy with return
+3717,896,2022-11-07,311,1,Returned,0.28,1234,Incorrect item,Quick process
+3720,919,2019-08-09,85,4,Returned,0.28,1235,Incorrect item,Happy with return
+3721,915,2018-09-30,447,3,Returned,0.21,1236,Incorrect item,Quick process
+3726,503,2018-07-17,497,1,Returned,0.16,1237,Incorrect item,Happy with return
+3727,951,2018-02-28,98,1,Returned,0.2,1238,Damaged,Happy with return
+3728,44,2021-12-26,431,2,Returned,0.02,1239,Not satisfied,Happy with return
+3730,553,2020-05-20,169,1,Returned,0.04,1240,Damaged,Quick process
+3735,858,2021-11-15,223,2,Returned,0.23,1241,Incorrect item,Happy with return
+3738,802,2022-04-24,334,3,Returned,0.11,1242,Damaged,Delayed refund
+3741,141,2022-07-06,384,1,Returned,0.27,1243,Not satisfied,Happy with return
+3742,666,2018-04-29,194,1,Returned,0.08,1244,Not satisfied,Delayed refund
+3744,767,2020-10-03,354,4,Returned,0.27,1245,Damaged,Delayed refund
+3748,319,2021-12-30,30,1,Returned,0.16,1246,Damaged,Quick process
+3750,374,2019-05-15,285,3,Returned,0.25,1247,Incorrect item,Quick process
+3755,684,2022-05-28,490,2,Returned,0.08,1248,Incorrect item,Quick process
+3758,305,2018-08-01,173,3,Returned,0.17,1249,Not satisfied,Delayed refund
+3761,371,2018-05-01,185,3,Returned,0.16,1250,Damaged,Quick process
+3765,4,2021-12-17,444,3,Returned,0.27,1251,Incorrect item,Happy with return
+3766,390,2021-12-22,180,1,Returned,0.02,1252,Incorrect item,Happy with return
+3768,676,2020-03-02,340,4,Returned,0.25,1253,Damaged,Delayed refund
+3770,66,2020-11-28,344,1,Returned,0.03,1254,Not satisfied,Delayed refund
+3771,625,2018-08-28,368,4,Returned,0.19,1255,Damaged,Delayed refund
+3776,134,2018-04-30,221,4,Returned,0.11,1256,Incorrect item,Quick process
+3781,782,2020-08-10,221,4,Returned,0.12,1257,Not satisfied,Quick process
+3788,176,2020-06-25,148,1,Returned,0.07,1258,Damaged,Happy with return
+3794,590,2022-08-05,23,4,Returned,0.01,1259,Damaged,Delayed refund
+3797,451,2019-03-29,149,3,Returned,0.17,1260,Incorrect item,Happy with return
+3798,978,2022-07-11,436,3,Returned,0.03,1261,Incorrect item,Quick process
+3805,63,2018-05-31,320,4,Returned,0.04,1262,Incorrect item,Delayed refund
+3807,574,2018-08-07,111,3,Returned,0.09,1263,Not satisfied,Quick process
+3814,799,2019-09-03,71,1,Returned,0.07,1264,Not satisfied,Quick process
+3817,131,2022-02-13,388,1,Returned,0.13,1265,Not satisfied,Happy with return
+3825,745,2019-11-15,49,2,Returned,0.05,1266,Not satisfied,Happy with return
+3826,544,2018-05-01,438,1,Returned,0.19,1267,Incorrect item,Happy with return
+3828,399,2021-09-11,245,4,Returned,0.07,1268,Damaged,Quick process
+3830,821,2022-02-27,152,4,Returned,0.24,1269,Not satisfied,Delayed refund
+3833,303,2020-01-05,302,1,Returned,0.26,1270,Incorrect item,Delayed refund
+3834,32,2019-01-24,423,4,Returned,0.08,1271,Damaged,Happy with return
+3835,669,2020-07-12,486,1,Returned,0.18,1272,Incorrect item,Delayed refund
+3844,654,2018-07-14,104,1,Returned,0.12,1273,Incorrect item,Quick process
+3845,65,2021-04-26,165,3,Returned,0.29,1274,Not satisfied,Quick process
+3846,919,2018-11-27,70,1,Returned,0.2,1275,Incorrect item,Happy with return
+3847,377,2022-11-02,40,1,Returned,0.09,1276,Incorrect item,Happy with return
+3850,237,2021-10-05,156,3,Returned,0.11,1277,Damaged,Quick process
+3851,500,2020-09-19,62,3,Returned,0.11,1278,Damaged,Happy with return
+3854,949,2020-10-03,352,4,Returned,0.16,1279,Incorrect item,Quick process
+3856,795,2019-07-30,95,1,Returned,0.26,1280,Incorrect item,Delayed refund
+3869,92,2021-02-24,455,3,Returned,0.08,1281,Damaged,Delayed refund
+3870,323,2019-05-14,209,3,Returned,0.16,1282,Not satisfied,Happy with return
+3871,936,2021-03-14,460,4,Returned,0.03,1283,Incorrect item,Happy with return
+3874,322,2021-04-25,345,1,Returned,0.04,1284,Incorrect item,Quick process
+3881,109,2022-01-20,358,2,Returned,0.09,1285,Damaged,Quick process
+3894,421,2022-05-11,2,4,Returned,0.09,1286,Damaged,Happy with return
+3898,367,2021-03-13,127,1,Returned,0.14,1287,Damaged,Delayed refund
+3903,780,2021-06-15,273,2,Returned,0.06,1288,Damaged,Happy with return
+3908,255,2021-02-14,453,2,Returned,0.18,1289,Damaged,Delayed refund
+3909,606,2020-01-13,387,4,Returned,0.29,1290,Damaged,Quick process
+3911,12,2020-03-05,351,4,Returned,0.03,1291,Incorrect item,Happy with return
+3915,272,2022-04-10,67,1,Returned,0.03,1292,Not satisfied,Happy with return
+3917,52,2019-05-22,141,2,Returned,0.28,1293,Incorrect item,Quick process
+3920,487,2019-07-04,35,1,Returned,0.19,1294,Damaged,Happy with return
+3921,422,2019-12-21,367,4,Returned,0.04,1295,Damaged,Happy with return
+3923,147,2021-07-24,276,2,Returned,0.08,1296,Not satisfied,Happy with return
+3926,854,2018-08-18,335,1,Returned,0.12,1297,Damaged,Happy with return
+3929,10,2020-04-16,232,4,Returned,0.16,1298,Incorrect item,Happy with return
+3930,562,2022-09-19,224,3,Returned,0.12,1299,Not satisfied,Quick process
+3931,254,2019-11-08,397,3,Returned,0.08,1300,Damaged,Quick process
+3932,635,2019-09-17,330,1,Returned,0.27,1301,Not satisfied,Happy with return
+3936,529,2020-01-26,193,1,Returned,0.27,1302,Damaged,Quick process
+3938,55,2021-08-28,279,4,Returned,0.24,1303,Not satisfied,Happy with return
+3939,511,2019-09-21,412,2,Returned,0.19,1304,Damaged,Happy with return
+3946,948,2019-01-22,393,4,Returned,0.11,1305,Incorrect item,Happy with return
+3948,390,2021-07-28,213,1,Returned,0.26,1306,Damaged,Quick process
+3950,429,2020-02-19,158,4,Returned,0.09,1307,Damaged,Delayed refund
+3957,54,2022-11-04,212,4,Returned,0.27,1308,Incorrect item,Delayed refund
+3958,18,2020-02-19,42,1,Returned,0.29,1309,Damaged,Delayed refund
+3963,784,2020-01-10,236,2,Returned,0,1310,Not satisfied,Delayed refund
+3966,310,2020-02-29,403,4,Returned,0.13,1311,Damaged,Quick process
+3976,812,2020-08-03,267,1,Returned,0.03,1312,Damaged,Happy with return
+3981,339,2020-05-31,166,4,Returned,0.06,1313,Not satisfied,Delayed refund
+3984,788,2018-06-04,244,3,Returned,0.09,1314,Damaged,Happy with return
+3986,711,2018-09-26,193,2,Returned,0.27,1315,Incorrect item,Delayed refund
+3987,8,2021-07-29,491,2,Returned,0.06,1316,Damaged,Happy with return
+3993,920,2018-11-02,203,1,Returned,0.21,1317,Incorrect item,Delayed refund
+3996,98,2019-03-29,357,4,Returned,0.12,1318,Not satisfied,Quick process
+3997,630,2020-11-29,335,2,Returned,0.08,1319,Incorrect item,Quick process
+4004,184,2020-08-29,167,1,Returned,0.24,1320,Damaged,Quick process
+4005,68,2022-12-05,405,3,Returned,0.16,1321,Not satisfied,Delayed refund
+4006,642,2018-10-31,171,2,Returned,0.16,1322,Not satisfied,Happy with return
+4008,666,2021-09-10,254,1,Returned,0.09,1323,Damaged,Quick process
+4011,304,2020-01-31,279,3,Returned,0.03,1324,Not satisfied,Delayed refund
+4012,186,2022-07-17,71,4,Returned,0.06,1325,Damaged,Quick process
+4016,367,2022-01-06,155,2,Returned,0.08,1326,Incorrect item,Happy with return
+4018,35,2022-02-20,164,1,Returned,0.28,1327,Damaged,Happy with return
+4019,895,2018-07-28,168,2,Returned,0.27,1328,Damaged,Happy with return
+4021,58,2021-06-03,194,2,Returned,0.01,1329,Incorrect item,Happy with return
+4022,134,2019-10-10,497,3,Returned,0.02,1330,Not satisfied,Happy with return
+4023,725,2022-11-20,136,3,Returned,0.29,1331,Damaged,Happy with return
+4029,765,2019-05-02,235,4,Returned,0.17,1332,Incorrect item,Delayed refund
+4030,106,2019-03-11,372,1,Returned,0.29,1333,Incorrect item,Happy with return
+4034,893,2022-07-04,442,4,Returned,0.03,1334,Not satisfied,Happy with return
+4035,428,2022-01-09,176,2,Returned,0.08,1335,Damaged,Delayed refund
+4036,352,2018-02-19,398,4,Returned,0.25,1336,Incorrect item,Quick process
+4038,829,2019-12-04,437,1,Returned,0.05,1337,Incorrect item,Happy with return
+4039,750,2022-12-24,258,4,Returned,0.11,1338,Not satisfied,Happy with return
+4040,116,2019-10-12,18,1,Returned,0.24,1339,Damaged,Quick process
+4042,995,2018-05-30,285,1,Returned,0.11,1340,Not satisfied,Happy with return
+4044,677,2019-11-27,431,1,Returned,0.3,1341,Incorrect item,Quick process
+4046,703,2021-10-23,109,4,Returned,0.04,1342,Damaged,Delayed refund
+4047,305,2020-09-14,319,2,Returned,0.11,1343,Not satisfied,Happy with return
+4050,964,2021-10-26,115,1,Returned,0.23,1344,Not satisfied,Delayed refund
+4051,725,2021-10-02,204,1,Returned,0.14,1345,Not satisfied,Quick process
+4052,675,2020-01-13,351,1,Returned,0.08,1346,Not satisfied,Quick process
+4053,939,2019-07-23,369,2,Returned,0.12,1347,Damaged,Delayed refund
+4054,559,2018-06-17,367,2,Returned,0.28,1348,Not satisfied,Happy with return
+4063,629,2022-12-21,482,3,Returned,0.06,1349,Not satisfied,Quick process
+4066,825,2020-11-06,238,3,Returned,0.08,1350,Not satisfied,Delayed refund
+4068,965,2022-07-29,137,1,Returned,0.13,1351,Damaged,Delayed refund
+4070,724,2022-05-15,61,2,Returned,0.04,1352,Damaged,Happy with return
+4076,938,2020-06-20,483,3,Returned,0.03,1353,Incorrect item,Delayed refund
+4079,441,2019-10-20,428,2,Returned,0.28,1354,Incorrect item,Quick process
+4083,412,2022-06-28,343,4,Returned,0.15,1355,Not satisfied,Quick process
+4084,137,2021-04-09,295,1,Returned,0.08,1356,Incorrect item,Happy with return
+4086,509,2021-11-10,19,3,Returned,0.09,1357,Incorrect item,Quick process
+4090,686,2020-02-16,459,2,Returned,0.06,1358,Damaged,Happy with return
+4092,994,2018-10-09,62,1,Returned,0.08,1359,Not satisfied,Quick process
+4093,338,2019-05-10,467,4,Returned,0.22,1360,Incorrect item,Quick process
+4095,583,2020-11-09,415,4,Returned,0.06,1361,Not satisfied,Happy with return
+4096,55,2021-10-03,59,4,Returned,0.15,1362,Incorrect item,Quick process
+4102,205,2018-08-10,394,4,Returned,0.24,1363,Damaged,Quick process
+4103,203,2020-04-05,245,3,Returned,0.09,1364,Not satisfied,Happy with return
+4104,213,2018-01-26,300,3,Returned,0.16,1365,Not satisfied,Delayed refund
+4106,918,2019-02-17,239,4,Returned,0.16,1366,Damaged,Delayed refund
+4107,953,2020-03-21,283,3,Returned,0.2,1367,Incorrect item,Quick process
+4108,460,2022-08-02,371,4,Returned,0.29,1368,Not satisfied,Quick process
+4111,40,2022-07-05,281,4,Returned,0.25,1369,Incorrect item,Happy with return
+4113,284,2018-07-15,154,1,Returned,0.25,1370,Not satisfied,Happy with return
+4116,970,2021-09-16,216,3,Returned,0.12,1371,Damaged,Quick process
+4126,251,2022-01-22,416,1,Returned,0.17,1372,Not satisfied,Delayed refund
+4137,546,2021-10-04,378,2,Returned,0.2,1373,Not satisfied,Quick process
+4143,852,2022-04-07,27,3,Returned,0.11,1374,Damaged,Quick process
+4144,499,2022-12-17,496,2,Returned,0.22,1375,Incorrect item,Happy with return
+4149,883,2022-09-30,374,3,Returned,0,1376,Not satisfied,Quick process
+4150,722,2019-08-21,228,1,Returned,0.13,1377,Not satisfied,Quick process
+4159,192,2022-03-19,30,3,Returned,0.04,1378,Not satisfied,Happy with return
+4164,360,2020-07-09,273,1,Returned,0.23,1379,Incorrect item,Quick process
+4166,692,2022-10-19,287,2,Returned,0.16,1380,Damaged,Happy with return
+4168,758,2018-08-14,57,1,Returned,0.1,1381,Damaged,Quick process
+4169,886,2018-02-11,32,1,Returned,0.09,1382,Incorrect item,Quick process
+4172,256,2020-12-02,388,1,Returned,0.25,1383,Incorrect item,Happy with return
+4173,547,2021-03-04,152,1,Returned,0.21,1384,Incorrect item,Delayed refund
+4175,587,2020-01-29,115,1,Returned,0,1385,Damaged,Quick process
+4176,346,2021-06-21,146,3,Returned,0.11,1386,Incorrect item,Delayed refund
+4178,547,2020-09-03,123,3,Returned,0.14,1387,Damaged,Delayed refund
+4180,382,2018-03-13,411,2,Returned,0.18,1388,Damaged,Delayed refund
+4182,54,2020-10-05,31,4,Returned,0.16,1389,Incorrect item,Happy with return
+4184,285,2018-02-26,471,2,Returned,0.13,1390,Damaged,Happy with return
+4185,29,2018-12-11,451,2,Returned,0.16,1391,Damaged,Delayed refund
+4189,582,2018-05-17,13,1,Returned,0.2,1392,Damaged,Delayed refund
+4191,171,2021-07-28,140,2,Returned,0.13,1393,Damaged,Happy with return
+4196,6,2018-10-02,187,2,Returned,0.19,1394,Damaged,Happy with return
+4197,887,2021-07-20,17,3,Returned,0.15,1395,Incorrect item,Delayed refund
+4204,733,2018-02-28,426,4,Returned,0.06,1396,Not satisfied,Delayed refund
+4208,33,2020-06-29,364,4,Returned,0.16,1397,Incorrect item,Delayed refund
+4210,609,2021-10-24,177,2,Returned,0.02,1398,Incorrect item,Delayed refund
+4216,823,2018-11-30,318,4,Returned,0.12,1399,Not satisfied,Delayed refund
+4217,297,2018-12-30,457,2,Returned,0.29,1400,Incorrect item,Happy with return
+4220,849,2020-07-16,256,3,Returned,0.21,1401,Incorrect item,Quick process
+4221,721,2022-01-06,52,3,Returned,0.11,1402,Damaged,Quick process
+4222,988,2020-06-10,304,3,Returned,0.26,1403,Damaged,Happy with return
+4223,812,2021-12-17,66,2,Returned,0.14,1404,Damaged,Happy with return
+4230,621,2022-08-04,356,2,Returned,0.08,1405,Not satisfied,Happy with return
+4231,448,2020-07-04,392,2,Returned,0.22,1406,Not satisfied,Happy with return
+4237,595,2022-10-14,186,2,Returned,0.15,1407,Not satisfied,Quick process
+4240,118,2019-06-25,65,4,Returned,0.14,1408,Incorrect item,Delayed refund
+4242,278,2019-10-20,300,4,Returned,0.18,1409,Incorrect item,Quick process
+4243,598,2019-07-30,189,3,Returned,0.19,1410,Incorrect item,Quick process
+4244,15,2018-01-19,282,3,Returned,0.21,1411,Damaged,Quick process
+4247,497,2020-08-13,360,1,Returned,0.29,1412,Incorrect item,Quick process
+4248,822,2019-01-05,336,3,Returned,0.02,1413,Damaged,Happy with return
+4254,278,2020-11-04,469,4,Returned,0.21,1414,Incorrect item,Delayed refund
+4256,290,2018-02-02,273,2,Returned,0.25,1415,Not satisfied,Happy with return
+4259,746,2022-07-27,393,2,Returned,0.28,1416,Not satisfied,Delayed refund
+4260,730,2020-09-11,378,2,Returned,0.23,1417,Incorrect item,Quick process
+4263,723,2019-06-29,484,2,Returned,0.29,1418,Incorrect item,Quick process
+4268,613,2018-05-30,435,4,Returned,0.08,1419,Incorrect item,Delayed refund
+4269,32,2019-09-22,492,1,Returned,0,1420,Incorrect item,Delayed refund
+4270,139,2019-05-31,120,3,Returned,0.03,1421,Damaged,Quick process
+4276,861,2021-01-04,263,3,Returned,0.3,1422,Incorrect item,Happy with return
+4278,688,2021-05-05,438,3,Returned,0.24,1423,Damaged,Quick process
+4292,345,2019-12-19,77,1,Returned,0.03,1424,Incorrect item,Delayed refund
+4293,451,2018-02-15,500,1,Returned,0.22,1425,Damaged,Quick process
+4297,733,2019-09-19,43,4,Returned,0.27,1426,Damaged,Quick process
+4298,506,2019-12-31,185,4,Returned,0.03,1427,Damaged,Happy with return
+4300,989,2022-04-03,340,4,Returned,0.13,1428,Incorrect item,Delayed refund
+4306,83,2020-02-22,258,2,Returned,0.11,1429,Damaged,Quick process
+4307,450,2020-07-01,385,2,Returned,0.1,1430,Not satisfied,Happy with return
+4308,765,2022-08-12,194,3,Returned,0.12,1431,Damaged,Delayed refund
+4309,82,2022-12-03,460,2,Returned,0.06,1432,Not satisfied,Quick process
+4310,624,2022-02-06,395,1,Returned,0.01,1433,Not satisfied,Quick process
+4313,23,2019-01-03,500,3,Returned,0.21,1434,Incorrect item,Quick process
+4320,350,2021-10-26,212,2,Returned,0.09,1435,Damaged,Delayed refund
+4321,356,2022-06-19,23,4,Returned,0.16,1436,Damaged,Happy with return
+4324,769,2021-10-09,198,1,Returned,0.1,1437,Incorrect item,Quick process
+4339,800,2021-11-27,7,2,Returned,0.24,1438,Incorrect item,Delayed refund
+4343,632,2021-09-10,130,2,Returned,0.23,1439,Incorrect item,Delayed refund
+4344,276,2021-11-01,466,4,Returned,0.17,1440,Damaged,Quick process
+4345,988,2018-01-19,383,3,Returned,0.2,1441,Damaged,Quick process
+4347,75,2019-09-08,430,3,Returned,0.19,1442,Not satisfied,Delayed refund
+4353,505,2021-03-22,370,1,Returned,0.25,1443,Damaged,Quick process
+4357,957,2018-06-19,165,3,Returned,0.16,1444,Not satisfied,Quick process
+4358,785,2018-04-04,359,4,Returned,0.17,1445,Incorrect item,Delayed refund
+4361,724,2020-03-15,129,3,Returned,0.17,1446,Damaged,Happy with return
+4363,605,2019-06-02,284,3,Returned,0.07,1447,Damaged,Happy with return
+4364,971,2019-04-05,482,3,Returned,0.15,1448,Incorrect item,Happy with return
+4368,162,2022-12-14,29,1,Returned,0.22,1449,Incorrect item,Quick process
+4373,769,2022-09-21,363,4,Returned,0.23,1450,Incorrect item,Quick process
+4374,688,2019-07-24,424,3,Returned,0.19,1451,Incorrect item,Delayed refund
+4375,693,2020-11-08,32,2,Returned,0.29,1452,Not satisfied,Quick process
+4376,155,2021-07-27,493,4,Returned,0.21,1453,Not satisfied,Delayed refund
+4379,7,2018-01-04,133,3,Returned,0.09,1454,Incorrect item,Quick process
+4380,814,2020-12-10,76,2,Returned,0.02,1455,Damaged,Quick process
+4381,628,2020-11-22,5,3,Returned,0.08,1456,Incorrect item,Happy with return
+4383,219,2021-04-27,468,4,Returned,0.29,1457,Not satisfied,Happy with return
+4386,412,2021-05-19,455,4,Returned,0.17,1458,Incorrect item,Happy with return
+4391,882,2018-06-22,20,4,Returned,0.18,1459,Not satisfied,Quick process
+4393,312,2019-01-01,472,2,Returned,0.26,1460,Not satisfied,Quick process
+4394,150,2021-06-05,99,2,Returned,0.09,1461,Not satisfied,Happy with return
+4402,357,2018-07-31,265,1,Returned,0.1,1462,Damaged,Happy with return
+4403,156,2018-05-14,58,2,Returned,0.2,1463,Not satisfied,Quick process
+4404,133,2020-06-01,372,3,Returned,0.13,1464,Damaged,Happy with return
+4405,128,2020-12-03,407,4,Returned,0.15,1465,Incorrect item,Happy with return
+4410,375,2021-08-24,480,2,Returned,0.3,1466,Not satisfied,Happy with return
+4411,642,2021-06-15,201,1,Returned,0.18,1467,Damaged,Happy with return
+4414,660,2018-04-30,53,3,Returned,0.2,1468,Not satisfied,Happy with return
+4417,810,2019-01-16,10,4,Returned,0.08,1469,Damaged,Delayed refund
+4422,286,2020-08-27,335,1,Returned,0.15,1470,Not satisfied,Quick process
+4425,750,2018-09-07,407,1,Returned,0.13,1471,Damaged,Quick process
+4426,493,2022-03-04,65,3,Returned,0.24,1472,Not satisfied,Quick process
+4428,554,2021-08-28,436,1,Returned,0.01,1473,Not satisfied,Quick process
+4431,852,2022-05-27,417,3,Returned,0.04,1474,Damaged,Quick process
+4435,426,2020-01-22,212,4,Returned,0.27,1475,Incorrect item,Happy with return
+4436,36,2022-04-12,343,2,Returned,0.24,1476,Incorrect item,Happy with return
+4438,596,2020-07-01,498,4,Returned,0.16,1477,Incorrect item,Happy with return
+4439,206,2023-01-01,232,2,Returned,0.02,1478,Incorrect item,Quick process
+4445,712,2020-09-21,245,4,Returned,0.19,1479,Not satisfied,Quick process
+4446,815,2021-02-13,85,2,Returned,0.05,1480,Not satisfied,Delayed refund
+4447,838,2018-12-09,137,1,Returned,0.16,1481,Not satisfied,Quick process
+4451,61,2018-03-30,436,4,Returned,0.09,1482,Damaged,Delayed refund
+4454,905,2018-02-02,263,2,Returned,0.08,1483,Incorrect item,Happy with return
+4455,366,2022-12-11,37,4,Returned,0.11,1484,Not satisfied,Quick process
+4459,273,2022-04-18,6,3,Returned,0.09,1485,Incorrect item,Delayed refund
+4463,100,2019-06-15,201,4,Returned,0.16,1486,Incorrect item,Quick process
+4467,506,2018-08-29,414,1,Returned,0.24,1487,Not satisfied,Happy with return
+4469,261,2020-05-02,394,1,Returned,0.05,1488,Not satisfied,Delayed refund
+4478,178,2019-03-22,328,3,Returned,0.27,1489,Not satisfied,Happy with return
+4480,959,2020-08-05,361,2,Returned,0.1,1490,Incorrect item,Quick process
+4482,859,2020-11-08,105,4,Returned,0.02,1491,Not satisfied,Happy with return
+4484,419,2018-06-26,75,3,Returned,0.29,1492,Not satisfied,Happy with return
+4485,569,2019-04-01,465,3,Returned,0.15,1493,Damaged,Delayed refund
+4487,122,2018-09-08,58,2,Returned,0.03,1494,Incorrect item,Quick process
+4488,222,2022-06-16,61,1,Returned,0.27,1495,Damaged,Quick process
+4490,453,2020-11-14,240,3,Returned,0.13,1496,Damaged,Delayed refund
+4491,131,2021-10-29,238,1,Returned,0.1,1497,Not satisfied,Happy with return
+4501,205,2022-02-09,144,2,Returned,0.29,1498,Incorrect item,Quick process
+4502,220,2022-01-10,242,3,Returned,0.22,1499,Damaged,Quick process
+4506,939,2021-10-30,79,1,Returned,0.26,1500,Damaged,Happy with return
+4508,397,2021-02-26,435,4,Returned,0.02,1501,Incorrect item,Delayed refund
+4512,530,2021-04-28,377,3,Returned,0.29,1502,Damaged,Happy with return
+4515,663,2018-02-06,481,4,Returned,0.01,1503,Damaged,Happy with return
+4518,90,2021-11-07,395,1,Returned,0.11,1504,Incorrect item,Happy with return
+4519,96,2021-01-18,87,2,Returned,0.24,1505,Incorrect item,Delayed refund
+4521,79,2019-05-18,423,2,Returned,0.17,1506,Damaged,Delayed refund
+4527,526,2020-07-07,15,2,Returned,0.03,1507,Not satisfied,Happy with return
+4528,983,2019-04-22,76,3,Returned,0.2,1508,Incorrect item,Quick process
+4531,863,2019-07-09,273,1,Returned,0.15,1509,Incorrect item,Happy with return
+4532,998,2022-06-27,79,2,Returned,0.09,1510,Damaged,Delayed refund
+4534,223,2018-10-15,167,1,Returned,0.16,1511,Incorrect item,Delayed refund
+4537,187,2020-04-06,294,2,Returned,0.15,1512,Not satisfied,Delayed refund
+4541,912,2021-01-07,231,2,Returned,0.04,1513,Damaged,Happy with return
+4542,809,2018-01-16,133,1,Returned,0.06,1514,Not satisfied,Happy with return
+4552,255,2022-05-31,291,1,Returned,0.16,1515,Not satisfied,Delayed refund
+4555,824,2018-10-01,418,2,Returned,0.11,1516,Not satisfied,Quick process
+4558,780,2019-07-03,440,1,Returned,0.13,1517,Not satisfied,Delayed refund
+4564,253,2022-07-24,61,2,Returned,0.22,1518,Damaged,Delayed refund
+4565,47,2018-05-07,421,2,Returned,0.18,1519,Not satisfied,Happy with return
+4566,766,2019-05-21,184,3,Returned,0.19,1520,Damaged,Quick process
+4567,398,2020-12-11,476,3,Returned,0.09,1521,Incorrect item,Happy with return
+4569,376,2019-01-28,340,2,Returned,0.03,1522,Damaged,Delayed refund
+4574,959,2022-06-14,6,1,Returned,0.15,1523,Incorrect item,Quick process
+4577,289,2022-05-02,393,4,Returned,0.15,1524,Damaged,Happy with return
+4578,700,2022-01-15,371,4,Returned,0.05,1525,Incorrect item,Happy with return
+4580,929,2018-11-01,59,4,Returned,0.19,1526,Incorrect item,Delayed refund
+4581,61,2019-02-15,45,3,Returned,0.21,1527,Damaged,Happy with return
+4582,390,2018-05-14,455,2,Returned,0.14,1528,Damaged,Quick process
+4584,988,2018-03-06,474,2,Returned,0.13,1529,Damaged,Delayed refund
+4585,544,2020-08-18,420,2,Returned,0.3,1530,Incorrect item,Quick process
+4588,878,2021-09-13,70,4,Returned,0.01,1531,Damaged,Delayed refund
+4589,121,2019-07-30,23,2,Returned,0.28,1532,Damaged,Delayed refund
+4590,714,2019-12-02,182,2,Returned,0.15,1533,Damaged,Happy with return
+4592,539,2019-11-08,94,1,Returned,0.24,1534,Not satisfied,Quick process
+4593,559,2018-05-03,163,4,Returned,0.21,1535,Damaged,Quick process
+4594,385,2020-04-22,92,3,Returned,0.03,1536,Incorrect item,Happy with return
+4595,219,2021-11-01,454,4,Returned,0.26,1537,Damaged,Delayed refund
+4597,559,2022-06-17,286,4,Returned,0.08,1538,Incorrect item,Delayed refund
+4605,219,2019-06-20,91,1,Returned,0.19,1539,Damaged,Delayed refund
+4611,69,2019-01-31,236,3,Returned,0.27,1540,Damaged,Happy with return
+4613,308,2021-03-22,303,3,Returned,0.04,1541,Not satisfied,Delayed refund
+4618,47,2020-08-19,351,4,Returned,0.06,1542,Incorrect item,Quick process
+4626,528,2021-06-22,172,1,Returned,0.19,1543,Not satisfied,Quick process
+4629,292,2020-11-06,39,2,Returned,0.26,1544,Not satisfied,Delayed refund
+4637,406,2020-02-10,1,4,Returned,0.15,1545,Incorrect item,Delayed refund
+4639,356,2019-01-01,112,2,Returned,0.08,1546,Damaged,Happy with return
+4642,259,2021-06-30,336,3,Returned,0.22,1547,Incorrect item,Delayed refund
+4644,65,2022-11-24,319,2,Returned,0.06,1548,Not satisfied,Happy with return
+4648,910,2018-06-02,72,2,Returned,0.16,1549,Incorrect item,Quick process
+4649,654,2021-06-23,213,2,Returned,0.05,1550,Not satisfied,Happy with return
+4650,890,2021-12-18,299,2,Returned,0.11,1551,Damaged,Quick process
+4666,362,2021-04-07,352,4,Returned,0.14,1552,Incorrect item,Quick process
+4670,535,2018-03-10,211,3,Returned,0.19,1553,Damaged,Quick process
+4671,229,2019-11-11,36,1,Returned,0.18,1554,Damaged,Happy with return
+4672,943,2019-12-18,334,3,Returned,0.29,1555,Damaged,Delayed refund
+4681,507,2019-04-23,138,2,Returned,0.16,1556,Damaged,Quick process
+4682,714,2018-06-13,261,4,Returned,0.2,1557,Incorrect item,Delayed refund
+4683,639,2019-01-30,224,4,Returned,0.23,1558,Not satisfied,Delayed refund
+4685,96,2018-05-07,394,3,Returned,0.21,1559,Incorrect item,Happy with return
+4686,767,2019-10-28,102,4,Returned,0.02,1560,Damaged,Delayed refund
+4688,107,2022-08-15,445,4,Returned,0.08,1561,Damaged,Happy with return
+4693,260,2021-12-25,308,1,Returned,0.16,1562,Damaged,Happy with return
+4694,148,2021-03-04,137,2,Returned,0.19,1563,Damaged,Happy with return
+4696,956,2022-12-03,225,4,Returned,0.03,1564,Damaged,Delayed refund
+4697,778,2019-04-22,95,2,Returned,0.26,1565,Damaged,Delayed refund
+4702,76,2018-10-06,24,1,Returned,0.16,1566,Incorrect item,Happy with return
+4703,642,2021-03-20,369,3,Returned,0.25,1567,Damaged,Happy with return
+4706,132,2021-02-14,478,1,Returned,0.08,1568,Not satisfied,Quick process
+4722,421,2022-12-04,169,4,Returned,0.13,1569,Incorrect item,Happy with return
+4725,736,2019-03-12,315,2,Returned,0.14,1570,Not satisfied,Delayed refund
+4735,528,2022-10-05,55,3,Returned,0.05,1571,Damaged,Delayed refund
+4737,771,2021-09-26,492,1,Returned,0.05,1572,Incorrect item,Happy with return
+4740,345,2018-04-19,466,3,Returned,0.25,1573,Damaged,Delayed refund
+4745,550,2022-01-26,324,4,Returned,0.18,1574,Incorrect item,Delayed refund
+4749,873,2019-03-31,419,1,Returned,0.1,1575,Incorrect item,Delayed refund
+4750,633,2022-07-31,109,3,Returned,0.18,1576,Damaged,Happy with return
+4751,372,2020-04-28,10,2,Returned,0.27,1577,Damaged,Delayed refund
+4753,474,2021-10-24,274,3,Returned,0,1578,Incorrect item,Delayed refund
+4755,631,2019-12-14,298,4,Returned,0.04,1579,Damaged,Delayed refund
+4756,452,2021-11-06,389,3,Returned,0.25,1580,Not satisfied,Quick process
+4759,507,2018-05-11,483,3,Returned,0.25,1581,Not satisfied,Quick process
+4760,695,2019-03-22,5,4,Returned,0.27,1582,Damaged,Delayed refund
+4762,856,2020-10-14,341,3,Returned,0.24,1583,Damaged,Quick process
+4765,418,2019-02-02,452,3,Returned,0.15,1584,Damaged,Delayed refund
+4768,802,2019-01-15,450,3,Returned,0.16,1585,Incorrect item,Happy with return
+4772,137,2020-04-11,177,3,Returned,0.05,1586,Incorrect item,Delayed refund
+4776,496,2019-05-29,99,1,Returned,0.27,1587,Incorrect item,Quick process
+4778,865,2018-02-12,160,2,Returned,0.04,1588,Damaged,Delayed refund
+4779,943,2021-10-15,438,3,Returned,0.29,1589,Damaged,Quick process
+4781,651,2019-04-06,419,2,Returned,0.1,1590,Not satisfied,Happy with return
+4790,925,2022-09-07,249,2,Returned,0.22,1591,Incorrect item,Happy with return
+4791,794,2022-12-22,372,3,Returned,0.05,1592,Incorrect item,Delayed refund
+4793,377,2020-10-07,365,4,Returned,0.25,1593,Incorrect item,Delayed refund
+4794,799,2020-05-04,229,3,Returned,0.13,1594,Damaged,Delayed refund
+4795,806,2019-02-27,307,4,Returned,0.21,1595,Not satisfied,Happy with return
+4796,737,2019-09-20,396,4,Returned,0.15,1596,Damaged,Quick process
+4797,86,2021-08-02,105,1,Returned,0.14,1597,Incorrect item,Happy with return
+4799,660,2019-07-12,267,1,Returned,0.27,1598,Not satisfied,Quick process
+4802,552,2020-02-13,221,4,Returned,0.18,1599,Incorrect item,Happy with return
+4803,322,2021-04-20,446,3,Returned,0.13,1600,Damaged,Quick process
+4804,38,2020-08-29,3,4,Returned,0.06,1601,Damaged,Delayed refund
+4807,178,2019-08-03,381,4,Returned,0.12,1602,Damaged,Quick process
+4808,741,2022-07-29,207,1,Returned,0.16,1603,Incorrect item,Quick process
+4809,893,2019-07-07,162,3,Returned,0.13,1604,Not satisfied,Delayed refund
+4810,45,2018-06-03,189,3,Returned,0.23,1605,Incorrect item,Delayed refund
+4812,36,2022-05-22,127,2,Returned,0.2,1606,Damaged,Delayed refund
+4828,177,2021-08-15,34,2,Returned,0.06,1607,Damaged,Delayed refund
+4829,404,2021-09-20,129,4,Returned,0,1608,Incorrect item,Quick process
+4830,359,2022-02-16,445,2,Returned,0.19,1609,Incorrect item,Happy with return
+4832,106,2018-05-09,6,1,Returned,0.19,1610,Damaged,Delayed refund
+4835,407,2022-07-07,245,4,Returned,0.24,1611,Damaged,Quick process
+4841,916,2019-07-25,401,3,Returned,0.29,1612,Damaged,Happy with return
+4842,373,2020-04-21,307,4,Returned,0.19,1613,Incorrect item,Happy with return
+4843,589,2022-06-28,233,3,Returned,0.06,1614,Not satisfied,Happy with return
+4847,4,2020-07-11,441,2,Returned,0.27,1615,Damaged,Happy with return
+4856,152,2021-10-26,471,2,Returned,0.16,1616,Damaged,Delayed refund
+4858,819,2019-03-13,462,4,Returned,0.03,1617,Incorrect item,Delayed refund
+4872,34,2021-04-18,289,4,Returned,0.23,1618,Not satisfied,Quick process
+4875,413,2021-04-23,130,2,Returned,0.14,1619,Not satisfied,Quick process
+4879,412,2020-09-16,68,1,Returned,0,1620,Incorrect item,Quick process
+4881,701,2018-04-30,483,1,Returned,0.19,1621,Damaged,Delayed refund
+4884,742,2019-06-17,88,3,Returned,0.08,1622,Incorrect item,Happy with return
+4886,39,2020-07-25,88,1,Returned,0.23,1623,Incorrect item,Delayed refund
+4893,263,2019-03-10,140,3,Returned,0.02,1624,Not satisfied,Quick process
+4896,171,2021-01-27,416,4,Returned,0.24,1625,Damaged,Happy with return
+4906,454,2019-12-01,295,2,Returned,0.18,1626,Incorrect item,Delayed refund
+4907,50,2022-09-04,169,2,Returned,0.04,1627,Damaged,Delayed refund
+4911,205,2022-06-29,218,2,Returned,0.02,1628,Incorrect item,Delayed refund
+4916,220,2022-05-12,495,1,Returned,0.21,1629,Not satisfied,Quick process
+4917,820,2018-03-15,47,1,Returned,0.27,1630,Damaged,Delayed refund
+4918,258,2020-05-31,483,2,Returned,0.08,1631,Incorrect item,Quick process
+4919,539,2020-07-22,256,4,Returned,0.06,1632,Not satisfied,Quick process
+4920,445,2022-07-21,367,2,Returned,0.04,1633,Not satisfied,Quick process
+4922,436,2020-08-17,67,4,Returned,0.22,1634,Not satisfied,Quick process
+4930,676,2021-10-06,232,1,Returned,0.24,1635,Not satisfied,Quick process
+4932,399,2021-07-18,327,2,Returned,0.05,1636,Damaged,Quick process
+4937,601,2020-07-07,446,3,Returned,0.03,1637,Not satisfied,Happy with return
+4940,535,2019-09-08,18,2,Returned,0.04,1638,Incorrect item,Delayed refund
+4941,131,2020-01-06,129,1,Returned,0.23,1639,Incorrect item,Quick process
+4945,233,2018-04-10,473,3,Returned,0.28,1640,Damaged,Delayed refund
+4948,269,2020-04-26,274,2,Returned,0.28,1641,Not satisfied,Delayed refund
+4949,619,2018-06-26,146,1,Returned,0.17,1642,Not satisfied,Delayed refund
+4952,466,2019-08-06,328,4,Returned,0.24,1643,Incorrect item,Delayed refund
+4953,975,2020-03-02,263,2,Returned,0.16,1644,Not satisfied,Happy with return
+4954,191,2018-09-03,19,1,Returned,0.07,1645,Damaged,Delayed refund
+4957,587,2018-04-13,383,4,Returned,0.26,1646,Damaged,Quick process
+4961,138,2022-08-15,123,2,Returned,0.07,1647,Damaged,Delayed refund
+4963,837,2018-03-06,12,1,Returned,0.27,1648,Not satisfied,Quick process
+4964,385,2022-07-03,20,3,Returned,0.17,1649,Not satisfied,Happy with return
+4966,96,2018-02-24,147,1,Returned,0.19,1650,Not satisfied,Delayed refund
+4971,120,2022-05-01,330,4,Returned,0.26,1651,Damaged,Happy with return
+4979,370,2020-05-07,119,2,Returned,0.21,1652,Damaged,Happy with return
+4980,389,2019-03-04,429,4,Returned,0.19,1653,Damaged,Quick process
+4983,295,2020-08-31,264,1,Returned,0.05,1654,Incorrect item,Happy with return
+4984,186,2021-09-10,391,3,Returned,0.23,1655,Not satisfied,Happy with return
+4988,381,2022-08-02,43,2,Returned,0.13,1656,Not satisfied,Happy with return
+4990,903,2019-11-21,322,1,Returned,0.27,1657,Incorrect item,Happy with return
+4992,649,2019-10-08,282,1,Returned,0.23,1658,Incorrect item,Quick process
+4993,399,2020-12-18,261,4,Returned,0.01,1659,Not satisfied,Happy with return
+4995,772,2019-09-21,105,1,Returned,0.16,1660,Damaged,Happy with return
+4996,923,2018-11-25,18,3,Returned,0.25,1661,Incorrect item,Quick process
